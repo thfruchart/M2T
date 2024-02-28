@@ -1,0 +1,508 @@
+# La Bible dit-elle vrai ?
+
+## Introduction
+
+* Le titre n'est pas "la Bible EST-elle vraie ?"
+  
+  * "est" => vérité d'une doctrine
+  
+  * "dit" => vérité d'une parole... qui suppose une écoute !
+
+* Dans une perspective croyante :
+  
+  * la Bible n'est pas un livre "mort" qui renfermerait un catalogue de vérités à croire.
+  
+  * elle est la trace d'une PAROLE VIVANTE
+
+Il ne s'agit pas simplement de répondre oui ou non, la Bible dit vrai...
+
+Il s'agira plutôt de situer le genre de vérité qu'on peut légitimement chercher à entendre dans la Bible, et le genre de questions qu'il vaut mieux éviter... car le risque de "fausse lecture" existe. 
+
+#### Interpréter
+
+Écouter, c'est aussi interpréter : 
+
+* si la Bible n'est pas un récit scientifique, alors comment interpréter (par exemple) les récits de créations ?
+- interpréter, oui... mais jusqu'où ?
+  
+  - sens littéral ?
+  
+  - sens figuré ? sens spirituel(s) ?
+* si la Bible raconte des histoires... ces histoires ne sont-elles pas exactes, du point de vue des historiens ?
+  
+  * les historiens cherchent la vérité
+  
+  * les croyants cherchent la vérité...
+  
+  * est-ce la même vérité ?
+
+* et Jésus : la Bible raconte tout de même la vérité sur lui !
+  
+  * comment interpréter les évangiles sans les trahir ? 
+
+* et l'Apocalypse, comment interpréter un texte aussi déconcertant ?
+
+#### Balises pour la navigation
+
+On peut nommer deux attitudes extrêmes, qu'il faut dénoncer comme des "tentations", et entre lesquelles tout lecteur de la Bible doit naviguer :
+
+- fondamentalisme
+  
+  - prendre le texte "au pied de la lettre"
+  
+  - confondre vérité biblique avec exactitude de chaque détail
+
+- scepticisme (ou tendance mythologique)
+  
+  - lire les textes bibliques comme s'ils relevaient TOUS du mythe, sans aucun élément exact (notamment sur le plan historique)
+  
+  - enjeu : ancrage historique, et incarnation !
+
+#### Vocabulaire
+
+Distinguer :  Vérité et Exactitude
+
+* Vérité : ce que nous cherchons dans la Bible
+  
+  * vérité d'une parole
+
+* Exactitude : ce que la raison nous permet de connaître
+  
+  * exactitude scientifique
+  
+  * exactitude historique (ou historienne)
+
+#### Dire vrai / exact
+
+Souvent, il nous arrive de "dire vrai" sans exprimer les choses "exactement".
+
+```
+- J'ai rendez-vous avec Joe... 
+- Joe ? C'est un vrai renard !
+```
+
+* parler inexact
+  
+  * le "**vrai** renard" dont il s'agit... n'est pas un renard
+  
+  * Dans les Évangiles : le "vrai" berger, la "vraie" lumière... 
+
+* dire vrai : 
+  
+  * "C'est un vrai renard" signifie :  méfie-toi... 
+  
+  * dans la Bible aussi, toutes les expressions ne sont pas toujours "exactes" : ça n'empêche pas la vérité d'une parole.
+
+> Jon 3,4
+> 
+> Jonas commença par faire dans la ville une journée de marche. 
+> 
+> Il proclamait : 
+> 
+> Encore quarante jours, et Ninive est détruite !
+
+* après 40 jours, Ninive n'est PAS détruite...
+
+* mais les habitants se sont convertis
+  
+  * le sens véritable de la proclamation de Jonas n'est pas d'annoncer la destruction de la ville
+  
+  * mais d'appeler ses habitants à la conversion.
+
+Sur cet exemple, on comprend bien l'enjeu de l'interprétation :
+
+* en rigueur de termes, la proclamation de Jonas ne se réalise pas
+
+* il serait idiot d'en déduire que Jonas est un "faux prophète" !
+
+* parfois ce qui est DIT n'est pas exactement ce que cela VEUT DIRE
+
+* MAIS, ce n'est pas non plus une raison pour "tricher" avec le texte... 
+
+# Récits de création
+
+* Gn 1 : récit de création du ciel et de la terre en 6 jours + 1
+
+* Gn 2 : récit de création des êtres vivants
+  
+  * *adam* (être humain)
+  
+  * animaux, nommé par l'humain
+  
+  * femme => reconnue par l'humain, qui se reconnaît lui-même homme.
+
+Commission Biblique Pontificale, *Inspiration et vérité de l'Écriture Sainte*, n°67
+
+> On risque d'importants contresens lorsque ces récits anciens sont lus selon une perspective contemporaine et que l'on en vient à les considérer comme des affirmations sur le "comment" de l'élaboration du monde et de l'homme. 
+> 
+> Il est nécessaire de contester une telle lecture pour mettre au jour de manière plus adéquate l'intention des textes bibliques et pour éviter de mettre leurs affirmations en concurrence avec les connaissances des sciences naturelles de notre temps. 
+
+#### premier récit de création
+
+> le premier récit des origines (Gn1,1 - 2,4) décrit, non pas la *manière* dont le monde est devenu ce qu'il est, mais *pourquoi* et *dans quel but* le monde a été fait tel qu'il est. 
+
+- DISTINCTION entre :
+  
+  - comment ?  => exactitude scientifique
+  
+  - pourquoi ?  pour quoi ?  => vérité de la Bible
+
+> En répartissant en six journées les différentes œuvres de la création, [le texte biblique] ne cherche pas à affirmer, comme vérité de foi, que le monde a réellement pris forme en six jours, pendant que le septième jour, Dieu se serait reposé. Le récit cherche davantage à manifester qu'il existe un ordre et une finalité dans la création. 
+
+Cependant... 
+
+St Augustin, *La Genèse au sens littéral*, Livre IV, chap. 3, n°6
+
+> On peut donc demander si ces mots : « Dans le principe Dieu fit le ciel et la terre, » doivent être entendus seulement dans le sens historique, où s'ils signifient encore quelque chose dans le sens figuré, comment ils concordent
+> avec l'Évangile et pour quelle raison le livre sacré commence ainsi. 
+
+* Dans le principe (*in principio*)
+  
+  * au commencement : principe au sens temporel
+  
+  * dans le Fils : principe au sens personnel
+  
+  * Augustin ne met pas en doute le sens "historique" : pour lui, cela va de soi !
+  
+  * mais il développe le sens figuré.
+
+* les pères de l'Église n'avaient pas d'autre source que les textes bibliques pour penser la question : "*comment*" le monde a-t-il été fait tel qu'il est  ?
+
+* ils n'avaient pas de raison de distinguer :
+  
+  * l'exactitude du "comment ?" 
+  
+  * la vérité du "pourquoi ?",  "dans quel but ?"
+
+* les affirmations sur le "comment" de l'élaboration du monde et de l'homme ont aujourd'hui des réponses grâce au progrès des connaissances rationnelles.
+  
+  * cette distinction entre "comment" et "pourquoi" est devenue indispensable.
+  
+  * on sait que dans l'histoire de l'Église, cette distinction a posé de grandes difficultés.
+  
+  * il est compréhensible que cette distinction pose aussi difficulté dans le cheminement personnel de certains d'entre nous, et de nos contemporains. 
+
+## La tentation du concordisme
+
+Une fois distinguées : 
+
+* exactitude scientifique ("comment ?")
+
+* vérité biblique ("pourquoi ?" et  "pour quoi ?")
+
+il est tout de même parfois tentant de les faire concorder. 
+
+#### Un exemple : la création de la lumière
+
+> 3 Dieu dit : Qu’il y ait de la lumière ! Et il y eut de la lumière.
+> 4 Dieu vit que la lumière était bonne, et Dieu sépara la lumière et les ténèbres.
+> 5 Dieu appela la lumière « jour », et il appela les ténèbres « nuit ». Il y eut un soir et il y eut un matin : premier jour.
+
+* n'est-ce pas étrange que la lumière soit créée avant le soleil (et la lune) ?
+  
+  * la théorie du big bang apporte un éclairage car elle prédit l'existence d'un "rayonnement fossile" avant la formation des étoiles
+  
+  * elle valide donc l'idée que la lumière fut... avant le soleil !
+
+```
+Selon le modèle du Big Bang, 
+dans les premiers millénaires de son existence, 
+l'Univers est extrêmement dense. 
+Par la suite, il prend de l'expansion tout en refroidissant. 
+Jusque vers 380 000 ans, les conditions sont telles que 
+tous les photons sont continuellement échangés entre les électrons, 
+ces derniers formant une « mer » d'où les photons ne peuvent s'échapper.
+
+L'Univers, poursuivant son expansion, refroidit encore plus, 
+tout en restant très homogène. 
+Cette diminution de température permet la recombinaison : 
+les électrons et les noyaux atomiques se lient, formant des atomes. 
+La « mer » électronique ayant cessé d'exister, 
+les photons peuvent désormais circuler librement dans l'Univers, 
+devenu « transparent ».
+
+Prévu dès 1948 et découvert par hasard en 1964, 
+le fond diffus cosmologique (ou 'rayonnement fossile') 
+permet à la communauté scientifique de départager 
+les différents modèles cosmologiques, en donnant la priorité 
+aux modèles basés sur l'idée de Big Bang.
+```
+
+* Faut-il en conclure que "la Bible avait raison" ?
+  
+  * ce n'est PAS une bonne idée !
+  
+  * cela revient à faire de l'exactitude scientifique une sorte de "critère" pour examiner la vérité des textes bibliques
+  
+  * cela revient à accorder du poids aux éléments du texte biblique qui correspondent à certaines connaissances scientifiques actuelles (en passant sous silence tous les éléments du texte biblique que la science ne valide pas)
+
+* Le texte de Gn 1 ne traite pas des photons primordiaux !
+
+> 3 Dieu dit : Qu’il y ait de la lumière ! Et il y eut de la lumière.
+> 4 Dieu vit que la lumière était bonne, et Dieu sépara la lumière et les ténèbres.
+> 5 Dieu appela la lumière « jour », et il appela les ténèbres « nuit ». Il y eut un soir et il y eut un matin : premier jour.
+
+Le texte associe la création de la lumière, première créature, qualifiée elle-même de "bonne" avec la SÉPARATION entre la lumière ("jour") et les ténèbres ("nuit").
+
+Le refrain "il y eut un soir et il y eut un matin" rythme l'ensemble du premier récit de création.
+
+Commission Biblique Pontificale, *Inspiration et vérité de l'Écriture Sainte*, n°67
+
+> La première œuvre de Dieu créateur consiste, selon le récit, à créer le temps (Gn 1,3-5), mis en place par l'alternance de la lumière et des ténèbres.
+
+Le texte ne traite pas de la question des photons, mais du rythme qui ordonne l'univers.
+
+* à l'époque de l'Exil à Babylone, le rythme de la semaine prend une importance considérable.
+  
+  * il n'y a plus d'espace sacré : le temple est détruit
+  
+  * mais le TEMPS lui-même est "sacré" grâce au sabbat. 
+
+* les théories scientifiques actuelles ne valident PAS l'idée d'une alternance des jours et des nuits avant que le soleil n'éclaire la terre... 
+
+* le concordisme parvient à faire concorder avec des connaissances scientifiques certains éléments soigneusement sélectionnés dans les textes bibliques. 
+
+## Comparaison avec des mythes du Proche Orient Ancien
+
+Voir : Supplément au Cahier Évangile 64, *La création et le déluge*, p.13.27.32.33
+
+### Poème babylonien de la création
+
+*Enuma Elish* ("Lorsqu'en haut") : deux premiers mots d'un poème akkadien de plus de 1000 vers, qui explique la suprématie du dieu *Mardouk* dans le panthéon babylonien. 
+
+Le texte, écrit sur des tablettes d'argile, a été découvert au XIXème siècle dans les ruines de la bibliothèque d'Assurbanipal à Ninive (proche de l'actuelle Mossoul en Irak).
+
+Le texte daterait du 12ème siècle av.J.-C.
+
+Au commencement... les eaux douces (personnifiées en Apsou) et les eaux salées (personnifiées en Tiamat) donnent naissance à plusieurs générations de dieux. 
+
+Puis Apsou, gêné par la troisième génération, bruyante et perturbatrice, décide de détruire les derniers nés. Ea apprend son projet et tue Apsou.
+
+Un conflit s'ensuit entre Tiamat (veuve d'Apsou) et Mardouk (fils d'Ea) => Mardouk est victorieux.
+
+> Il revient en arrière vers Tiamat qu'il avait capturée ; 
+> 
+> le Seigneur mit les pieds sur la base de Tiamat
+> 
+> et de sa masse inexorable fracassa le crâne ;
+> 
+> ... Voyant cela ses pères se réjouirent, jubilèrent
+> 
+> ... [Mardouk veut] former quelque chose d'ingénieux ; 
+> 
+> il la fendit [Tiamat] en deux comme un poisson au séchage
+> 
+> en disposa une moitié comme ciel en forme de plafond
+> 
+> [l'autre moitié formera la terre] 
+
+On peut retenir : 
+
+* l'origine aquatique de tous les dieux
+
+* la création du ciel et de la terre à partir du corps d'un dieu "fendu en deux comme un poisson"
+
+> [Mardouk : ] "je veux former l'homme
+> 
+> que les hommes soient chargés de la tâche des dieux et que les dieux soient en repos
+> 
+> ... quel est celui qui a causé le combat
+> 
+> a fait se révolter Tiamat et a organisé la bataille ?" 
+> 
+> ... "C'est Kingou" ...
+> 
+> L'ayant capturé, ils le tiennent en présence d'Ea
+> 
+> ils lui imposèrent le châtiment et lui tranchèrent le sang ;
+> 
+> de son sang, il forma l'humanité.
+
+On peut retenir : 
+
+* l'origine "divine" de l'être humain
+
+* formé à partir du sang d'un dieu "condamné à mort"
+
+### Atra-hasis
+
+Les trois tablettes retrouvées avec les 1245 lignes de ce poème sont datées du 17ème siècle av.J.-C.
+
+Le poème lui-même pourrait être plus ancien, car ne mentionne pas "Mardouk" (dieu de Babylone) ni Shamash (le dieu soleil), dont les noms apparaissent déjà sur le code d'Hammourabi (18è siècle av.J.-C.)
+
+> **tablette I**
+> 
+> Lorsque les dieux avaient le rôle de l'homme
+> 
+> il supportaient la tâche, portaient le panier ;
+> 
+> le panier des dieux était grand
+> 
+> et la tâche était lourde ; abondante était la peine
+
+Les dieux inférieurs ont pour tâche de creuser des canaux, et même des fleuves : l'Euphrate et le Tigre. 
+
+Ils finissent par se révolter (poussés par le dieu Wê ?).
+
+Les dieux supérieurs reconnaissent que leur tâche est lourde, et proposent de créer des hommes "*loullou*" : ils s'adressent à "la sage-femme des dieux"
+
+> "C'est toi qui sera la matrice formatrice de l'humanité ; 
+> 
+> forme le *loullou*, qu'il supporte le joug [...]
+> 
+> que l'homme porte le panier du dieu !"
+
+Nintou demande qu'on lui fournisse l'argile. Les dieux décident : 
+
+> "Qu'on abatte un dieu déterminé
+> 
+> et que les dieux se purifient par immersion
+> 
+> A sa chair et à son sang
+> 
+> que Nintou mêle de l'argile, 
+> 
+> que du dieu et de l'homme soient mêlés
+> 
+> ensemble dans l'argile !
+
+La fin du texte précise : 
+
+> Ils firent de nouvelles pioches et de nouvelles bêches,
+> 
+> ils firent de grands remblais de canaux
+> 
+> pour (satisfaire) la faim des gens et pour la nourriture des dieux.
+
+On peut retenir :
+
+* que les hommes sont créés pour soulager les dieux inférieurs de leur travail
+
+* que l'homme est un mélange d'argile et de sang divin (corps et esprit)
+
+* en finale, l'homme doit travailler pour se nourrir... et pour faire des offrandes aux dieux.
+
+### rôle des mythes
+
+En racontant l'histoire des origines, il s'agit de répondre aux grandes questions de l'humanité
+
+* pourquoi vivons-nous ?
+
+* pour quoi vivons-nous ? 
+
+Formulées en mode moins sérieux : 
+
+* d'où viens-je ?
+
+* où cours-je ?
+
+* dans quel état j'erre ?
+
+Par comparaison avec les mythes du Proche Orient Ancien, certains aspects du texte biblique prennent davantage de relief.
+
+#### corps et esprit
+
+* en Gn 2 : l'être humain (*adam*) est tiré du sol (*adamah*) 
+  
+  * ce point précis n'est pas très original
+  
+  * dans les mythes que nous venons de lire, il y a de l'argile dans l'être humain... 
+
+* l'*adam* devient un être vivant grâce au souffle de vie que le Seigneur insuffle dans ses narines.
+  
+  * quelque chose en l'homme le relie à la divinité : du souffle, et non pas du sang.
+  
+  * Dieu ne prend pas le souffle du vent pour animer l'*adam* : il utilise son propre souffle.
+
+Dans les mythes du P.O.A., les dieux fabriquent un être humain pour qu'il "porte le panier du dieu" : le sang divin explique que l'humain est doué de **raison** : en cela il diffère des animaux.
+
+Mais l'être humain n'a pas de lien vivant avec ses créateurs, comme l'*adam* biblique dont le principe de vie provient du Dieu **vivant**. 
+
+#### souveraineté divine
+
+Une différence énorme entre la Bible et les mythes du POA est le monothéisme.
+
+Les éléments (comme les eaux) n'y sont pas divinisés.
+
+* pas de conflit initial entre les dieux
+
+* pas de querelle de suprématie
+
+* pas de "meurtre fondateur"
+
+En un mot : Dieu crée l'univers et l'humain, sans avoir de sang sur les mains !
+
+* en séparant "les eaux qui sont au dessus du firmament et les eaux qui sont en dessous", Dieu fait preuve de souveraineté sur les éléments. 
+  
+  * les eaux ne sont pas divinisées, même si dans d'autre passages (poétiques) elles peuvent être personnifiées, comme en Job 38
+  
+  > 1 Le Seigneur répondit à Job du milieu de la tempête :
+  > 
+  > 4a Où étais-tu quand je fondais la terre ?
+  > 
+  > 8 Qui a enfermé la mer avec des portes, quand elle s’élança pour sortir du sein maternel,
+  > 9 quand je fis de la nuée son vêtement et de l’obscurité épaisse ses langes,
+  > 10 quand je lui fixai mes prescriptions et que je lui mis des verrous et des portes ;
+  > 11 quand je dis : « Tu viendras jusqu'ici, tu n’iras pas au-delà ; ici s’arrêtera l’orgueil de tes flots ! » 
+
+* à la différence des récits mésopotamiens, l'atmosphère du premier récit de création est très sereine
+  
+  > et Dieu vit que cela était bon
+
+#### finalité de la création
+
+Dans les mythes que nous avons lus, l'être humain est fabriqué pour soulager les dieux de leur travail ! Il travaillera à leur place, et les servira (culte).
+
+En Gn 1, l'humain est créé... sans nécessité !
+
+* c'est la liberté divine qui décide "faisons l'homme à notre image, selon notre ressemblance".
+  
+  > 27 Dieu créa les humains à son image : il les créa à l’image de Dieu ; homme et femme il les créa.
+  > 
+  > 31 Dieu vit alors tout ce qu’il avait fait : c’était très bon.
+
+* pour le résumer en un seul mot :
+  
+  * c'est par AMOUR que l'homme est appelé à l'existence
+  
+  * et c'est pour AIMER qu'il est créé.
+
+Ignace de Loyola, (Exercices spirituels n°23)
+
+> L'homme est créé pour louer, honorer et servir Dieu, notre Seigneur, et, par ce moyen, sauver son âme. Et les autres choses qui sont sur la terre sont créées à cause de l'homme et pour l'aider dans la poursuite de la fin que Dieu lui a marquée en le créant.
+
+* St Ignace ne s'exprime pas en langage mythique...
+  
+  * mais les enjeux qu'il exprime rationnellement sont ceux que le mythe propose. 
+
+* ce qu'Ignace exprime est le fruit de sa lecture du livre de la Genèse, et de l'ensemble de la Bible.
+
+* ni la théorie du Big Bang, ni celle de l'évolution des espèces n'abordent ces mêmes enjeux.
+
+# En guise de conclusion
+
+* distinction fondamentale :
+  
+  * exactitude ("comment est-ce arrivé?")
+  
+  * vérité ("pourquoi, dans quel but?")
+
+* en tant que PAROLE
+  
+  * la Bible (comme les humains) peut PARLER VRAI sans forcément dire exact
+
+* les récits de création ne peuvent plus être lus au 21ème siècle sans distinguer le registre des connaissances scientifiques et le registre du SENS qui est celui des mythes. 
+
+* la comparaison avec certains mythes du Proche Orient Ancien met en relief
+  
+  * la souveraineté de Dieu sur les éléments, qu'il domine sans les affronter
+  
+  * le lien VIVANT de l'homme avec son créateur
+  
+  * la BONTÉ de la création (qui contraste avec la violence toujours présente des les mythes non bibliques)
+
+#### La prochaine fois : Gn 2-3
+
+
+
+#### c'est l'heure des questions...
