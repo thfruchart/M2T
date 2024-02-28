@@ -503,6 +503,3 @@ Ignace de Loyola, (Exercices spirituels n°23)
 
 #### La prochaine fois : Gn 2-3
 
-
-
-#### c'est l'heure des questions...
