@@ -64,7 +64,7 @@ La fois dernière, nous avons lu la proclamation de Jonas :
 
 > En règle générale, on peut définir le sens spirituel, compris selon la foi chrétienne, comme le sens exprimé par les textes bibliques, lorsqu'on les lit sous l'influence de l'Esprit Saint dans le contexte du mystère pascal du Christ et de la vie nouvelle qui en résulte. 
 
-- le sens spirituel est exprimé par les textes bibliques eux-mêmes (il ne vient pas de l'extérieur de texte)
+- le sens spirituel est exprimé par les textes bibliques eux-mêmes (il ne vient pas de l'extérieur du texte)
   
   - sens spirituel et sens littéral peuvent très bien coïncider !
     
@@ -76,7 +76,7 @@ La fois dernière, nous avons lu la proclamation de Jonas :
 Certains textes de l'AT reçoivent un sens plus riche, lorsqu'il sont lus dans le contexte nouveau du mystère du Christ
 
 > 2 Sa 7 [annonce du prophète Natan à David]<br/>Quand tes jours seront accomplis et que tu te seras couché avec tes pères, je susciterai après toi ta descendance, **celui qui sera sorti de toi**, et j’affermirai son **règne**.
-> C’est lui qui bâtira une maison pour mon nom, et j’affermirai pour toujours son trône royal.
+> C’est lui qui bâtira une maison pour mon nom, et j’affermirai **pour toujours** son trône royal.
 
 - Salomon, qui siège après David sur son trône.
   
@@ -136,7 +136,11 @@ Il y a deux enjeux dans la phrase du grand prêtre :
 
 # Gn 2-3
 
-voir : Cahier Évangile n°201, *Déjouer les logiques abusives*, p.10ss "À la racine du mal, la parole détournée".
+voir : 
+
+* Cahier Évangile n°201, *Déjouer les logiques abusives*, p.10ss "À la racine du mal, la parole détournée".
+
+* M.POCHON, *Les promesses de l'Eden*, Éditions Vie chrétienne, p.92ss
 
 #### Ainsi Dieu vous a dit...
 
@@ -146,7 +150,7 @@ voir : Cahier Évangile n°201, *Déjouer les logiques abusives*, p.10ss "À la 
   
   * ce n'est pas un reportage, calqué sur les "faits réels"
   
-  * le texte relève du genre mythe
+  * le texte relève du genre mythe en faisant parler un animal
 
 * le serpent... 
   
@@ -186,7 +190,7 @@ voir : Cahier Évangile n°201, *Déjouer les logiques abusives*, p.10ss "À la 
   
   * mais cela fait ressortir le fait que le serpent s'adresse à un membre de l'humanité qui n'a pas entendu "en direct" la parole de Dieu
   
-  * il pourra ainsi plus facilement manœuvrer (même si, lui non plus n'a pas entendu "en direct" la parole de Dieu à Adam)...
+  * il pourra ainsi plus facilement manœuvrer (même si, lui non plus n'a pas entendu "en direct" la parole de Dieu à Adam...)
 
 * autorisation / interdiction
   
@@ -210,17 +214,15 @@ voir : Cahier Évangile n°201, *Déjouer les logiques abusives*, p.10ss "À la 
   
   * le premier mot du serpent est une particule difficile à traduire, "Ainsi", "alors..."" 
   
-  * la TOB traduit "Vraiment  !" en plusieurs contextes :
+  * la NBS traduit "Vraiment  !" en plusieurs contextes :
   
   >  « Pourrais-je vraiment avoir un enfant, moi qui suis vieille ? » (Sara)
   > 
   >  Vas-tu vraiment supprimer le juste avec le méchant ? (Abraham)
   
-  * dans la bouche du serpent, ce "Vraiment !" est particulièrement significatif... car ce qu'il dit ne correspond pas bien à la vérité.
+  * dans la bouche du serpent, ce "Vraiment !" est particulièrement significatif... car ce qu'il dit ne correspond pas à la vérité.
   
   => vraiment, le serpent insinue le soupçon
-
-
 
 #### réponse de la femme
 
@@ -259,7 +261,7 @@ voir : Cahier Évangile n°201, *Déjouer les logiques abusives*, p.10ss "À la 
     
     => le serpent a marqué un point en mettant l'accent sur la restriction
   
-  * l'arbre qui est au milieu du jardin
+  * "l'arbre qui est au milieu du jardin" 
     
     => Gn 2, 9
     
@@ -282,7 +284,7 @@ voir : Cahier Évangile n°201, *Déjouer les logiques abusives*, p.10ss "À la 
 
 * "vos yeux s'ouvriront"
   
-  * ce sera le cas au v. 7, 
+  * ce sera le cas au v. 7, "Leurs yeux à tous deux s’ouvrirent..."
   
   * mais au lieu de posséder la connaissance "comme des dieux"
   
@@ -293,14 +295,14 @@ voir : Cahier Évangile n°201, *Déjouer les logiques abusives*, p.10ss "À la 
   * dans le contexte biblique actuel, cette parole prétend donner accès...
   
   * à quelque chose qui a été donné à l'humanité en Gn1
+    
+    > "à l'image de Dieu il les créa"
   
-  * "à l'image de Dieu il les créa"
-  
-  * le serpent donne à convoiter, comme quelque chose à **saisir**, ce que Dieu a donné, et qu'il suffirait de **recevoir**. 
+  * le serpent donne à convoiter, comme quelque chose à **saisir**, ce que Dieu a déjà donné, et qu'il suffirait de **recevoir**. 
 
 * "Dieu sait que..."
   
-  * il prétend savoir ce que Dieu sait (d'où le saurait-il ?)
+  * le serpent prétend savoir ce que Dieu sait (d'où le saurait-il ?)
   
   * et finalement, il accuse Dieu d'avoir menti... par jalousie
     
@@ -317,9 +319,134 @@ voir : Cahier Évangile n°201, *Déjouer les logiques abusives*, p.10ss "À la 
   * l'homme mange sans rien dire...
 
 * les conséquences désastreuses montrent que le serpent avait menti...
+  
+  * le fruit de l'arbre défendu n'est pas magique ! 
+
+> M. POCHON (p.51)<br/>Ils rêvaient d'être ce qu'ils ne sont pas, 
+> 
+> et les voilà gênés l'un devant l'autre d'être ce qu'ils sont.
+
+* le serpent, la femme et l'homme se font "gronder", comme un père gronderait ses enfants.
+  
+  * le "châtiment" est-il la conséquence de la transgression ?
+  
+  * est-il une peine infligée par le créateur ?
+
+* Notons tout de même la sollicitude "parentale" de Dieu qui les revêt... avant des les chasser !
 
 ### Une difficulté
 
+> Le SEIGNEUR Dieu dit : « Voici que l’homme est devenu comme l’un de nous par la connaissance de ce qui est bon ou mauvais. Maintenant, qu’il ne tende pas la main pour prendre aussi de l’arbre de vie, en manger et vivre à jamais ! »
+
+* Dieu reprend les paroles du serpent
+  
+  * "vous serez comme des dieux possédant la connaissance de ce qui est bon ou mauvais"
+
+* il mentionne l'arbre de vie
+  
+  * pour expliquer la décision de chasser les humains hors du jardin.
+
+#### le serpent avait-il dit vrai ?
+
+* Dieu serait-il jaloux ?
+  
+  * refusant de donner accès à l'arbre de vie,
+  
+  * reconnaissant lui-même que l'humain est devenu "comme l'un de nous", selon ce qu'avait promis le serpent
+
+A première lecture, ce verset semble donner raison au serpent (et remettre en cause toute l'interprétation qui précède)...
+
+* la connaissance de ce qui est bon ou mauvais
+  
+  * serait désormais acquise à l'humanité, comme le discernement moral (à la différence des animaux) ?
+  
+  * mais cette connaissance était nécessaire dès le chap. 2, pour que l'humain puisse choisir librement d'obéir (ou non) à la parole divine....
+  
+  * Dieu aurait-il créé l'humanité d'abord incapable de discernement ? ce serait alors lui le responsable principal de la transgression de Gn 3...
+
+> Jn 8,44 [le diable]<br/>Dès le commencement il s’est attaché à faire mourir l’homme ; il ne s’est pas tenu dans la vérité parce qu’il n’y a pas en lui de vérité. Lorsqu'il profère le mensonge, il puise dans son propre bien parce qu’il est menteur et père du mensonge.
+
+Est-il possible que Dieu ne dise pas VRAI (???) lorsqu'il affirme "Voici que l’homme est devenu comme l’un de nous par la connaissance de ce qui est bon ou mauvais"
+
+=> ce serait possible si c'était une reprise **ironique** des paroles du serpent.
+
+Peut-il y avoir de l'ironie dans la Bible ?
+
+* il y a de l'ironie dans le langage humain courant.
+
+* il y a de l'ironie dans la bouche d'Élie lorsqu'il s'adresse aux prêtres de Baal : 
+  
+  > Elie se moqua d’eux ; il dit : Criez à pleine voix, puisqu'il est dieu ! Il doit penser à quelque chose, ou bien il est occupé, ou encore il est en voyage ; peut-être qu’il dort et qu’il va se réveiller !
+
+* et dans la bouche de Dieu ?
+
+#### un exemple : Gn 11
+
+> [les humains]<br/> **Allons** ! **Moulons** des briques et **cuisons**-les au four.  **Allons** !, **bâtissons**-nous une ville et une tour dont le sommet touche le ciel. **Faisons**-nous un nom
+> 
+> [Dieu]<br/>**Allons**, **descendons** et **brouillons** leur langue
+
+Dans ce passage, Dieu reprend la manière de parler des humains... qui précisément pose problème. 
+
+* ici, on peut penser que c'est une reprise ironique
+
+* Dieu se moquerait (gentiment) de l'entreprise humaine... 
+  
+  * nous n'avons pas forcément l'habitude de lire une pointe d'humour dans les paroles divines
+  
+  * mais tous les textes bibliques ne sont pas du même style...
+
+#### ironie en Gn3 ?
+
+* en Gn3, Dieu se promène dans le jardin, et appelle Adam comme dans une partie de cache-cache...
+
+* la parole divine ne fonctionne pas de la même façon en Gn 1 et en Gn 2-3
+  
+  > Gn2,18<br/>Le SEIGNEUR Dieu dit : « Il n’est **pas bon** pour l’homme d’être seul. Je veux lui faire une aide qui lui soit accordée. »
+  
+  * en Gn 2-3, la création semble plus dynamique (pour ne pas dire improvisée)...
+  * s'il y a de l'ironie dans la bouche de Dieu, on la trouvera plus probablement en Gn 2-3 qu'en Gn1, car les styles sont assez différents.
+
+On peut envisager la possibilité que la reprise des paroles du serpent soit ironique :
+
+> Le SEIGNEUR Dieu dit : « Voici que **l’homme est devenu comme l’un de nous par la connaissance de ce qui est bon ou mauvais**. Maintenant, qu’il ne tende pas la main pour prendre aussi de l’arbre de vie, en manger et vivre à jamais ! »
+
+* l'ensemble du chapitre montre que le serpent a menti
+  
+  * la femme dit VRAI lorsqu'elle affirme "le serpent m'a trompée".
+
+* lorsque Dieu reprend les paroles du serpent, il ne les approuve pas : c'est justement parce qu'il ne les approuve pas qu'il le cite (avec ironie).
+  
+  * si la situation humaine est devenue mauvaise (maintenant Adam a peur)
+  
+  * la décision de supprimer l'accès à l'arbre de vie met une limite à ce mal : il ne durera pas toujours.
+
+> B. SESBOÜÉ, *Tout récapituler dans le Christ*, p.105<br>La mort elle-même a pour but de faire cesser le péché, "afin que l'homme, cessant de vivre au péché et mourant à ce péché, commençât à vivre pour Dieu" (Irénée de Lyon, *Contre les hérésies*, III, 23,6)
 
 
 
+## En guise de conclusion
+
+Le "sens littéral" d'un passage biblique doit être recherché par une lecture attentive.
+
+* Le "sens littéral" n'est pas le sens "mot à mot"
+
+* Le "sens littéral" peut être le sens "propre" OU le sens "figuré"
+
+* dans certains cas, le sens littéral relève de l'ironie (ex. prophète Élie)
+
+* chaque récit a un style dont il faut tenir compte pour l'interprétation
+  
+  * récits historiques... 
+  
+  * récits évangéliques... 
+  
+  * textes apocalyptiques... 
+
+### la fois prochaine
+
+* Exode 14
+
+* Josué 6 
+
+### c'est l'heure des questions !
