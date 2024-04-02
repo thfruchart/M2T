@@ -1,0 +1,480 @@
+# La Bible dit-elle vrai ?
+
+## Parlons Histoire !
+
+On utilise le mot "histoire" dans bien des sens différents : 
+
+* en cours d'**histoire**, j'ai entendu parler de Thucydide
+  
+  => travail des historiens
+
+* s'il te plait, tu me lis une **histoire** ?
+  
+  => récit
+
+* tu racontes des **histoires**...
+  
+  => c'est faux ! 
+
+On va chercher à montrer qu'un récit biblique (une histoire) peut très bien contenir des inexactitudes (historiennes) sans pour autant être faux ! 
+
+Cet enjeu est plus important que celui de l'exactitude scientifique :
+
+* la Bible n'est pas un ouvrage scientifique
+
+* mais elle contient des récits, qui s'inscrivent dans l'histoire (au sens des historiens) : Exil à Babylone... 
+
+### Exactitude historique
+
+* Dès l'Antiquité, un auteur comme Thucydide présente son projet historique, en contraste avec le mythe.
+  
+  > On n’accordera pas la confiance aux poètes, qui amplifient les événements, ni aux logographes qui, plus pour charmer les oreilles que pour servir la vérité, rassemblent des faits impossibles à vérifier rigoureusement et aboutissent finalement pour la plupart à un récit incroyable et merveilleux.
+- il note cependant au sujet des discours rapportés dans *Guerres du Péloponnèse* (Vème siècle av.JC) :
+  
+  > « J'ai exprimé ce qu'à mon avis [les protagonistes de la guerre] auraient pu dire qui répondît le mieux à la situation, en me tenant, pour la pensée générale, le plus près possible des paroles réellement prononcées »
+* il faut noter :
+  
+  - une exigence de rigueur => faits vérifiables
+  
+  - une liberté dans l'écriture (discours non littéralement exacts...)
+- le projet de l'historien ne se limite pas à rapporter les "faits", mais à en faire percevoir le sens. 
+* dans notre culture, nous avons une exigence très forte sur la question de l'exactitude historique... y compris pour l'exactitude des discours ! 
+  
+  * mais il faut rappeler que des personnes différentes qui sont témoins d'un même fait ne l'interprètent pas toutes de la même manière.
+  * en conséquence : un récit est toujours une *interprétation* d'un fait.
+  * l'histoire n'est jamais une pure chronique des faits : elle vise toujours à relier entre eux des faits, pour construire du sens. 
+
+#### fiction et vérité
+
+* le succès de certains films/séries *inspirés de faits réels* montre la force de l'association entre :
+  
+  * la fiction (inexactitude)
+  
+  * et la réalité des enjeux liés aux faits (vérité)
+
+* encore une fois : une certaine vérité peut passer par l'intermédiaire d'un récit qui n'est pas historiquement exact !
+
+#### mémoire et vérité narrative
+
+Dans certaines cultures, on tolère mieux que dans la notre le fait de "réaménager" l'exactitude historique. L'exemple qui suit est particulièrement intéressant car il s'inscrit pleinement dans notre culture contemporaine.
+
+Boris CYRULNIK, spécialiste de la résilience, a publié "*Sauve-toi, la vie t'appelle*", dans lequel il réfléchit sur ses souvenirs. 
+
+Extrait d'un article paru dans l'hebdomadaire *La Vie*, le 4 oct. 2012, qui lui donne la parole.
+
+> ***Lors de votre évasion de la synagogue de Bordeaux, vous avez cru qu'un Allemand vous avait volontairement laissé la vie sauve. Vous vous êtes protégé en déformant la réalité...***
+> 
+> **B.C.**  J'étais seul dans la rue, exposé. Une infirmière était dans une camionnette  au chevet d'une dame apparemment mourante. Quelqu'un a soulevé le matelas et j'ai plongé dessous. Dans ma mémoire, le soldat allemand m'a aperçu et a donné le signal de départ. C'est un faux souvenir. L'infirmière et la petite-fille de la dame blessée m'ont raconté que ce capitaine avait 《simplement》 dit : "Qu'elle crève ici ou ailleurs, ce qui compte c'est qu'elle crève." Ma version me permettait de penser que même les gens qui font le mal ont toujours un reste d'humanité en eux. Cela a nourri mon optimisme, et m'a évité de rester enfermé dans la haine. Ce travail de réaménagement de ma mémoire a été salutaire. Ce n'était pas la vérité historique, mais c'était ma vérité narrative. La réalité était folle. En me leurrant, je me suis rendu la représentation de mon passé plus supportable.
+
+Dans un autre article (Le Monde, 25 oct. 2012)
+
+> Les faux souvenirs ne sont pas des mensonges, ce sont des accommodements pour le meilleur et non pour le pire. 
+> 
+> La vérité narrative n'est pas la vérité historique, elle est le remaniement qui rend l'existence supportable.
+
+* l'inexactitude historique 
+  
+  * "un Allemand m'a volontairement sauvé"
+
+* est au service d'une vérité narrative
+  
+  * "même les gens qui font le mal ont toujours un reste d'humanité en eux".
+
+* c'est cette vérité narrative qui a permis au jeune enfant qu'il était de traverser l'épreuve qui, autrement, aurait été insurmontable.
+  
+  * le "fait" est qu'il a pu s'échapper (car le soldat l'a vraisemblablement ignoré)
+  
+  * le récit qu'il construit donne l'interprétation du fait => vérité **narrative** 
+
+* cette **inexactitude** n'est **pas** un mensonge.
+  
+  * si le récit qu'il construit s'écarte des "faits"
+  
+  * c'est pour construire une "vérité narrative"... qui est salutaire !
+
+> Dei Verbum affirme que <br/>«les livres de l’Écriture enseignent fermement, fidèlement et sans erreur la **vérité** que Dieu a voulu voir consignée dans les Lettres sacrées pour notre **salut**.»
+
+Nos exigences de rigueur factuelle ne sont PAS celles des auteurs bibliques. 
+
+* "hors de l'exactitude historique, point de salut ?"
+  
+  * NON ! le salut n'est pas dans l'exactitude historique
+  
+  * Imposer aux textes bibliques nos exigences contemporaines d'exactitude, c'est fausser leur lecture. 
+
+* tout n'est pas inexact pour autant... c'est ce qui fait que c'est complexe !
+
+### Les textes bibliques ont une histoire
+
+Début de l’histoire de Gédéon dans le Livre des Juges, chapitre 6, d'après le texte hébreu d'un manuscrit de *Qumran*
+
+> Ainsi, Israël fut très affaibli à cause de Madiân; et les fils d'Israël
+>  crièrent vers le SEIGNEUR. Or, comme les fils d'Israël criaient vers 
+> le SEIGNEUR à cause de Madiân,
+> 
+> l'ange du SEIGNEUR vint s'asseoir sous le térébinthe d'Ofra, qui appartenait à Yoash, du clan d'Avièzer. Gédéon, son fils, était en train de battre le blé dans le pressoir pour le soustraire à Madiân.
+
+Début de l’histoire de Gédéon dans le Livre des Juges, chapitre 6, dans le texte hébreu traditionnel
+
+> 6  Ainsi, Israël fut très affaibli à cause de Madiân; et les fils d'Israël
+>  crièrent vers le SEIGNEUR. 7 Or, comme les fils d'Israël criaient vers 
+> le SEIGNEUR à cause de Madiân,
+
+> 8 le SEIGNEUR envoya aux fils  d'Israël un prophète qui leur dit: « Ainsi parle le SEIGNEUR, Dieu d'Israël: C'est moi qui vous ai fait monter d'Égypte et qui vous ai fait  sortir de la maison de servitude. 9 Je vous ai délivrés de la main des Égyptiens et de tous ceux qui vous opprimaient; je les ai chassés devant  vous et je vous ai donné leur pays. 10 Je vous ai dit: "Je suis le SEIGNEUR, votre Dieu. Vous ne craindrez pas les dieux des Amorites dont vous habitez le pays!" Mais vous n'avez pas écouté ma voix !»
+
+> 11 L'ange du SEIGNEUR vint s'asseoir sous le térébinthe d'Ofra, qui appartenait à Yoash, du clan d'Avièzer. Gédéon, son fils, était en train  de battre le blé dans le pressoir pour le soustraire à Madiân.
+
+* deux versions du même texte existent, d'après des manuscrits (très) anciens
+  
+  * une version brève
+  
+  * une version longue : avec envoi d'un prophète
+
+* laquelle des deux versions pourrait être la plus ancienne ?
+  
+  * on s'explique mieux l'ajout des v.8-10 que leur "oubli"
+  
+  * d'autant que le style de ces versets rappelle le livre du Deutéronome : ils ont probablement été ajoutés à un texte plus ancien
+
+* le texte de nos bibles suit la version longue
+  
+  * ce n'est probablement pas le texte le plus ancien
+  
+  * c'est un texte qui a été "enrichi" au cours de sa transmission.
+
+* ICI, on observe ce phénomène pour un paragraphe entier...
+  
+  * dans bien des cas, des ajouts portent sur quelques mots seulement...
+
+QUESTION : le v.8 a-t-il pour but de nous communiquer plus exactement **les faits** ?
+
+> le SEIGNEUR envoya aux fils d'Israël un prophète
+
+* c'est plutôt un moyen d'exprimer, en parole, un contenu théologique (proche du Dt)
+  
+  * ce serait une erreur que d'interpréter ce passage comme un procès-verbal de gendarmerie, qui donnerait l'exactitude des détails de l'envoi du prophète, avec ses paroles exactes... 
+
+Commission biblique pontificale, *L'interprétation de la Bible dans l'Église*, p.61
+
+> Le fondamentalisme insiste [...] d'une manière indue sur l'inerrance des détails dans les textes bibliques, spécialement en matière de faits historiques ou de prétendues vérités scientifiques. Souvent il historicise ce qui n'avait pas de prétention à l'historicité, car il considère comme historique tout ce qui est rapporté [...] à un temps passé, sans la nécessaire attention à la possibilité d'un sens symbolique ou figuratif.
+
+### La Bible a été écrite... et ré-écrite
+
+> Jr 36,32 : ré-écriture du rouleau brûlé<br/>Jérémie prit un autre rouleau et le donna à Baruch, fils de Nériya, le scribe. Baruch y écrivit, sous la dictée de Jérémie, toutes les paroles du livre qu’avait brûlé au feu Joïaqim, roi de Juda. Beaucoup d’autres paroles semblables y furent encore ajoutées.
+
+* Beaucoup d'autres paroles semblables
+  
+  * prononcées par Jérémie lui-même...
+  
+  * ou pas !
+
+* y furent encore ajoutées
+  
+  * par Baruch...
+  
+  * ou par d'autres scribes, ses successeurs ?
+
+Autrement dit, le livre de Jérémie n'a pas été écrit d'un seul coup : les autres livres bibliques non plus !
+
+#### réécriture des livres de Sa et R
+
+Les livres des Chroniques racontent la même période que les livres de Samuel et des Rois.
+
+* points communs
+
+* et différences
+
+Il est intéressant de comparer les récits similaires...
+
+* non pas pour chercher à rétablir l'exactitude des faits
+
+* mais pour mieux comprendre comment un premier récit a été relu, pour être réécrit.
+
+<u>Un exemple rapide</u> : 
+
+> **2 Sa 24**<br/>21 Aravna dit : Pourquoi, ô roi, viens-tu chez moi, ton serviteur ? 
+> 
+> David répondit : Pour t’acheter l’aire afin d’y bâtir un autel pour le Seigneur, afin que le fléau qui frappe le peuple s’arrête.
+> 22 Aravna dit à David :[...] ô roi, je te donne tout !  [...]
+> 24 Mais le roi lui dit : Non ! Je te l’achèterai à son prix ; je n’offrirai pas au Seigneur, mon Dieu, des holocaustes qui ne coûtent rien ! David acheta l’aire et les bœufs pour cinquante sicles d’argent.
+> 
+> 25 David bâtit là un autel pour le Seigneur ; il offrit des holocaustes et des sacrifices de paix. Alors le Seigneur se laissa fléchir en faveur du pays : le fléau qui frappait Israël s’arrêta.
+
+En 1 Ch 21, on lit :
+
+> 25 David donna à Ornân, pour ce lieu, de l’or pour un poids de six cents sicles.
+> 26 David bâtit là un autel pour le Seigneur ; il offrit des holocaustes et des sacrifices de paix, et il invoqua le Seigneur, qui lui répondit en faisant venir un feu du ciel sur l’autel de l’holocauste.
+
+* le nom du propriétaire est différent en hébreu... 
+  
+  * אֲרַ֥וְנָה   /  אָרְנָ֖ן
+
+* le montant payé par David est différent : 
+  
+  * 1 sicle = 11,4 grammes
+  
+  * 50 sicles d'argent (2Sa) 
+    
+    => David vieillissant est radin (et sur le déclin !) 
+  
+  * 600 sicles d'or (1 Ch)
+    
+    => David "se rattrape" en offrant une somme extraordinaire !
+    
+    => le Seigneur lui répond avec un feu du ciel (comme le fera plus tard le prophète Élie)
+    
+    => le texte construit une image très positive de David.
+    
+    c'est sur l'aire achetée par David que sera construit le Temple (par Salomon)
+
+<u>Suite de l'exemple</u> (difficile) : le fléau qui s'est abattu sur Israël a été causé par un péché de David => recenser le peuple
+
+> **2 Sa 24**<br/>1 Le Seigneur se mit de nouveau en colère contre Israël. Il incita David à leur faire du tort, en disant : "Va, dénombre Israël et Juda !" 
+
+* c'est le Seigneur qui semble "commander" à David de faire ce qui est interdit dans la Torah...
+
+> **1 Ch 21**<br/>
+> 
+> 1 L’Adversaire (Satan) se dressa contre Israël : il incita David à dénombrer Israël.
+
+* ici, c'est Satan qui veut du mal à Israël, et qui incite David à dénombrer le peuple.
+
+Plusieurs remarques : 
+
+* ce ne sont pas tant "les faits" qui comptent : 
+  
+  * David recense le peuple, c'est un fait !
+
+* c'est plutôt l'interprétation des faits que construisent les deux textes : 
+  
+  * **2Sa 24** David comme "instrument" d'un châtiment divin (ordonné à la conversion du peuple? à celle de David?)
+  
+  * **1Ch 21** : David comme "victime" d'un piège de l'Adversaire.
+
+* on a donc deux lectures théologiques différentes d'un même "fait"
+
+#### Dieu, cause du mal ?
+
+* certains textes attribuent directement à Dieu, ce qui (en vérité) ne fait que s'inscrire dans le plan de Dieu. 
+  
+  * ATTENTION : lorsqu'un texte attribue directement à Dieu une forme de mal, le sens du passage n'est probablement pas dans le "mot à mot" !
+  
+  * dans l'exemple du péché de David, le Chroniste évite de laisser croire que Dieu incite directement David au mal => c'est plutôt Satan ! 
+
+Dans le même sens, on peut citer deux passage de la fin du livre de la Genèse :
+
+> **Gn 45** : Joseph s'adresse ses frères<br/>5 Maintenant, ne vous affligez pas et **ne soyez pas fâchés de m’avoir vendu ici**, car c’est pour sauver des vies que **Dieu m’a envoyé en avant de vous**.
+> 6 Voilà deux ans que la famine sévit dans le pays ; pendant cinq ans encore il n’y aura ni labour, ni moisson.
+> 7 Dieu m’a envoyé en avant de vous pour vous assurer un reste dans le pays et pour vous permettre de rester en vie, par une grande délivrance.
+> 8 En fait, **ce n’est pas vous qui m’avez envoyé ici, c’est Dieu** ; 
+
+* le sort de Joseph est attribué directement à Dieu
+  
+  * mais Dieu aurait pu choisir un moyen plus moral, pour arriver à son but !
+
+> **Gn 50** : Joseph s'adresse ses frères [après la mort de leur père]<br>
+> 20 Le **mal** que **vous** comptiez me faire, 
+> **Dieu** comptait en faire du **bien**, afin de faire ce qui arrive en ce jour, 
+> pour sauver la vie d’un peuple nombreux.
+
+* en vérité : 
+  
+  * les frères sont responsables du mal qu'ils comptaient faire à Joseph
+  
+  * mais Dieu a voulu le transformer en bien
+  
+  * et les "coupables" bénéficient de ce "bien" ! 
+
+* Dans l'expression "raccourcie" du chap. 45, on pourrait comprendre que Dieu a "causé" le mal qu'est la trahison de Joseph par ses frères
+
+* mais le chap. 50 permet de "déplier" ce qui a été dit de façon (trop) raccourcie au chap. 45
+
+## La traversée de la mer
+
+![la traversée de la mer : film "les 10 commandements"](/home/snde/Documents/SNDE/M2T/exodus.jpg)
+
+> Ex 14, 21<br/>Alors Moïse étendit sa main sur la mer ; le Seigneur refoula la mer toute la nuit par un puissant vent d’est ; il mit la mer à sec...
+
+> et les eaux se fendirent : les Israélites entrèrent au milieu de la mer, sur la terre ferme ; les eaux étaient pour eux une muraille à leur droite et à leur gauche.
+
+Ce récit, lui aussi, a une histoire (complexe) : une lecture minutieuse montre que le texte d'Ex 14 est probablement le fruit de la synthèse de deux récits antérieurs, reconnaissables à leurs styles différents
+
+* l'un présente la maîtrise du Seigneur sur les éléments (la mer, Pharaon ses chars et son armée). 
+  
+  * Il agit par la puissance de sa parole, adressée à Moïse.
+    
+    => et ce fut ainsi...
+
+* l'autre présente l'intervention du Seigneur qui combat lui-même pour son peuple
+
+  * "Fuyons pour échapper à Israël, car c’est le Seigneur (YHWH) qui combat l’Egypte pour eux !"
+  
+  * "Il enleva les roues de leurs chars"
+
+La Genèse présente deux récits de création différents.
+
+L'Exode présente un seul récit du passage de la mer (qui combine probablement deux récits plus anciens)
+
+QUE S'EST-IL PASSÉ EXACTEMENT ?
+
+* marée basse ?
+
+* muraille aquatique ?
+
+La vérité est simple (et frustrante ?) : on ne peut pas reconstituer "les faits" à partir du texte ! 
+
+Ce que nous propose le texte, c'est plutôt du SENS... 
+
+EST-CE QUE CE RÉCIT EST UN MYTHE ?
+
+Non : c'est plutôt une épopée !
+
+Il y a probablement des "traces de mémoire" à la racine des traditions du passage de la Mer. Mais ces traces ont été recouvertes par les récits épiques... et il n'est plus possible de les retrouver... 
+
+Il vaut mieux chercher ce que ces récits épiques veulent nous faire entendre (vérité narrative).
+
+> et les eaux se fendirent : les Israélites entrèrent au milieu de la mer, sur la **terre ferme** ; les eaux étaient pour eux une **muraille** à leur droite et à leur gauche.
+
+* la terre ferme relie le récit du passage de la mer avec le récit de création
+  
+  > **Gn 1,9** Dieu dit : Que les eaux qui sont au-dessous du ciel s’amassent en un seul lieu, et que la **terre ferme** apparaisse ! Il en fut ainsi.
+  
+  * la puissance de la parole créatrice s'exerce pour le salut du peuple d'Israël
+    
+    => le Dieu sauveur, c'est le Dieu créateur
+    
+    => l'action créatrice se poursuit en salut
+
+* muraille : c'est un mur de protection
+  
+  * les eaux qui étaient pour Israël comme un piège bloquant leur fuite
+  
+  * les eaux qui sont souvent dans la Bible un symbole de mort
+  
+  * ces eaux deviennent **pour eux** protection => les eaux prennent la défense des fils d'Israël
+  
+  * symboliquement : une puissance de mort est changée au service de la vie.
+
+Ce texte met en récit, à la manière d'une épopée, l'expérience du salut de Dieu.
+
+Pour chercher la vérité du texte, mieux vaut suivre cette piste théologique... que partir en quête de l'exactitude historique...  
+
+## La prise de Jéricho
+
+> Jos 6,1-5<br/> Jéricho était complètement fermée devant les Israélites. Personne n’en sortait et personne n’y entrait.
+> Le Seigneur dit à Josué : Regarde, je t’ai livré Jéricho, son roi, les vaillants guerriers. Vous tous, les hommes de guerre, vous ferez le tour de la ville ; **vous tournerez une fois autour de la ville. Tu feras ainsi pendant six jours**.
+> Sept prêtres porteront sept trompes, les cornes de bélier, devant le Coffre. **Le septième jour, vous ferez sept fois le tour de la ville**, et les prêtres sonneront de la trompe. Quand on fera retentir la corne de bélier, quand vous entendrez le son de la trompe, tout le peuple lancera une grande acclamation ; le rempart de la ville s’écroulera sur lui-même et le peuple montera à l’assaut, chacun devant soi.
+
+* aspect guerrier
+  
+  * les hommes de guerre
+  * peuple montera à l’assaut
+
+* et pourtant, les principaux acteurs sont : les prêtres
+
+* et les principales "armes" sont :
+  
+  * les trompettes
+  
+  * une grande acclamation
+
+Même si la conquête sera violente, le texte présente ici plutôt une liturgie qu'un siège... 
+
+#### Qu'en disent les archéologues ?
+
+Des fouilles ont eu lieu pour retrouver les "murailles de Jéricho".
+
+Les premières fouillent avaient pour objectif de confirmer, si possible, l'exactitude des récits bibliques. 
+
+Le problème est qu'à la date supposée de la conquête par Josué, il semble que Jéricho était déjà en ruine... 
+
+On peut se consoler en remarquant que l'archéologie permet de ne pas valider un texte dont la violence est problématique ! 
+
+#### contexte historique (rédaction du livre ?)
+
+Au VIIIè siècle av.JC, c'est l'empire assyrien qui domine le Levant : 
+
+* le royaume du Nord est annexé (722)
+
+* le royaume du Sud devient un vassal de l'empire assyrien (734)
+
+> Les Assyriens diffusaient des documents juridiques et de propagande dans lesquels le roi d'Assyrie exigeait la soumission totale de ses vassaux et où l'on célébrait les victoires assyriennes et l'extermination de tous les ennemis d'Assur.
+> 
+> T. Römer, *Le Dieu obscur*, p.77
+
+Au VIIè siècle, durant le règne de Josias (640-609) le royaume de Juda bénéficie du fait que l'empire assyrien commence à décliner. Josias entreprend une "réforme" politique et théologique, dans la ligne du livre du Deutéronome. 
+
+> Dt 6,4-5<br>"Ecoute, Israël ! Le Seigneur, notre Dieu, le Seigneur est un.
+> Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme et de toute ta force".
+
+> Traité d'Assarhadon, 672 av.JC<br/>"Tu aimeras Assurbanipal, [...] fils d'Assarhadon, roi d'Assyrie, comme toi-même" 
+> 
+> Traité d'Assurbanipal, vers 650 av.JC  
+> ""Nous n'installerons ni ne chercherons un autre roi ou un autre seigneur pour nous"
+
+"Aimer", ici, signifie plutôt "respecter"  qu'éprouver de l'affection.
+
+* en reprenant les termes des traités de vassalité assyriens, pour les appliquer à YHWH, Israël proclame une forme d'indépendance face aux prétentions assyriennes. 
+  
+  > oui : Israël a un suzerain à qui il doit une fidélité absolue. Pourtant, ce dernier n'est pas le grand roi assyrien, mais YHWH, le Dieu de son peuple.  
+  > T. Römer, *Le Dieu obscur*, p.79
+
+* mais alors, YHWH "hérite" de certains aspects de l'idéologie assyrienne. 
+  
+  * par exemple : la célébration du massacre des ennemis... 
+  
+  > Il y a donc bien un message polémique dans le livre de Josué, affirmant la supériorité de YHWH sur l'Assyrie et ses dieux, mais ce message se développe au prix d'un durcissement de YHWH qui devient aussi guerrier qu'Assur. 
+
+* heureusement... 
+
+> L'histoire de Rahab vient ainsi décloisonner une lecture par trop nombriliste et violente des origines d'Israël, en montrant que sans l'apport des étrangers, la promesse n'aurait jamais été réalisée.  
+> T. Römer, *Le Dieu obscur*, p.93
+
+* et pour mémoire : Rahab est l'une des femmes que l'évangile selon Mt nomme dans la généalogie de Jésus ! 
+
+#### bilan
+
+* Un texte comme Jos 6 nous renseigne davantage sur l'époque de Josias (VIIè s. av.JC) que sur l'époque de Josué (XIIè s. av.JC ?)
+
+* La violence des récits de conquête a du sens, s'il s'agit de contester les récits assyriens de propagande, qui utilisent les mêmes procédés.
+
+* pour l'interprétation du texte, il faut en tenir compte : 
+  
+  * ces textes n'ont pas été écrits pour nous 'révéler' que Dieu est violent...
+  
+  * ils ont été écrits pour révéler que YHWH est le véritable "SEIGNEUR" d'Israël, contrairement à ce que prétendait Assur... 
+
+> les récits de conquête faisant apparaître un Dieu guerrier ont malheureusement servi à légitimer toutes sortes d'atrocités au long de l'histoire chrétienne [p.94]
+
+Notons tout de même à l'attention des conquérants qui brandissent ce récit comme argument que :
+
+* il faut faire 7 fois le tour des murailles, 
+
+* pousser un grand cri
+
+* puis attendre, avant de combattre, le signal... 
+
+* à savoir que les murailles s'effondrent grâce à une intervention divine
+
+Ce n'est pas du tout la même chose que ce soit Dieu qui "combatte" pour le peuple, ou que ce soit le peuple qui combatte "pour Dieu" ! 
+
+# En guise de conclusion
+
+* Dans la Bible, un récit au passé n'a pas toujours de prétention à l'exactitude historique
+  
+  * certains textes ont une histoire complexe,
+  
+  * avec des ajouts qui n'ont pas pour but de préciser les faits, mais de dire du SENS
+  
+  * il n'est pas toujours possible aux historiens de reconstituer les "faits" sur lesquels un récit biblique est basé. 
+
+* les récits bibliques rapportent "les faits" de manière parfois très libre, ce qui choque notre exigence de rigueur historique (moderne)
+  
+  * il convient de respecter les genres littéraires des différents textes (ex : épopée, récits de conquête)
+  
+  * il est parfois utile de tenir compte du contexte historique de rédaction des textes, qui peut intervenir des siècles après les "faits" relatés dans un récit.
+
+* ces récits sont les témoins d'un Dieu qui se révèle dans l'histoire
+  
+  * cette révélation est à chercher au moins autant dans l'interprétation des "faits", que dans les "faits" eux-mêmes. 
+
