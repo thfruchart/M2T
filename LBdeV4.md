@@ -24,7 +24,7 @@ Pour les évangiles aussi, il convient de distinguer :
 
 * Jésus réel
   
-  * celui que les gens de l'époque ont connu
+  * celui que les gens de l'époque ont connu (ses amis, ses ennemis...)
   
   * nous ne connaissons pas, aujourd'hui, la couleur de ses yeux, le son de sa voix, son plat préféré
 
@@ -37,6 +37,8 @@ Pour les évangiles aussi, il convient de distinguer :
   * il a guéri des malades et chassé des démons
 
 * Jésus des évangiles = personnage principal des ces écrits qu'on nomme évangiles
+
+  * Jésus ne s'exprime pas de la même manière en Jn, ou Mt
   
   * les évangiles de décrivent pas TOUT du Jésus réel (description physique)
   
@@ -79,7 +81,7 @@ Commission biblique pontificale, *Inspiration et vérité de l'écriture sainte*
   
   > le Fils de l'homme [Jésus]
 
-* c'est précisément sur l'identité profonde de Jésus, sur son identité *véritable*, que les évangile sont véridiques... même si cette identité ne se laisse pas facilement exprimer avec des mots classiques
+* c'est précisément sur l'identité profonde de Jésus, sur son identité *véritable*, que les évangiles sont véridiques... même si cette identité ne se laisse pas facilement exprimer avec des mots classiques
   
   * le Fils de l'homme => mystérieux
   
@@ -291,7 +293,7 @@ Pour éviter l'arbitraire dans la connaissance historique de Jésus, les auteurs
 
 - attestation multiple : si des sources indépendantes rapportent une même tradition sur Jésus, celle-ci gagne en crédibilité.
   
-  => Jésus opère des guérison
+  => Jésus opère des guérisons
   
   => Jésus chasse les démons
 
@@ -425,7 +427,7 @@ Aujourd'hui, on ne dissocie pas ce témoignage de sa réception dans les premiè
 
 Pour dire en vérité qui est le véritable Jésus, l'écriture parle du "Christ" : 
 
-* ce mot a probablement été utilisé dès le ministère publique de Jésus
+* ce mot a probablement été utilisé dès le ministère public de Jésus
   
   * il est présent dans les récits de la passion : "es-tu le Messie ?" 
 
@@ -436,8 +438,44 @@ Pour dire en vérité qui est le véritable Jésus, l'écriture parle du "Christ
   * mais un Messie souffrant (contre toute attente), mort et ressuscité
   
   > Ac 2, 36<br/>Dieu l'a fait Seigneur et Christ, ce Jésus que vous avez crucifié !
+  
+* pour le croyant, la vérité des évangiles ne se limite pas à ce que peut en dire l'historien
 
-# C'est l'heure des questions
+  *  les études historiques sur Jésus montrent l'ancrage de certains "signes" dans la vie publique de Jésus
+  
+  * et le SENS de ces signes relève de la foi.
+
+
+### La question de l'inspiration
+
+Comme l'écrit la commission biblique pontificale, en 2014,
+
+> La relation personnelle avec le Seigneur Jésus, vécue avec une foi intense et explicite en sa Personne, constitue le fondement principal de cette "inspiration" qui rend les apôtres capables de communiquer, oralement ou par écrit, le message de Jésus qui est la "Parole de Dieu".  
+> *Inspiration et Vérité de l'Écriture Sainte*, p. 39
+
+- "oralement ou par écrit"
+  
+  - la capacité à communiquer par écrit (les évangiles) n'est pas distinguée de la capacité de prêcher oralement (l'unique Évangile de Jésus)
+  
+  - c'est la fidélité à Jésus lui-même qui importe.
+
+- ce n'est pas l'identité précise de celui qui a écrit qui fonde l'inspiration.
+  
+  - c'est la mission de Jésus a confiée à ses disciples, et la foi/fidélité de ces disciples à leur Seigneur.
+  
+  > Qui vous écoute m'écoute  
+  > Lc 10,16
+
+- le phénomène de canonisation des 4 évangiles est essentiellement ecclésial.
+  
+  - traditionnellement, l'origine apostolique était l'un des éléments qui expliquait que les 4 évangiles font partie du canon (même si certains apocryphes sont dits de Pierre, de Thomas...)
+  
+  - on peut renverser l'argument : les 4 évangiles sont apostoliques parce qu'ils sont canoniques.
+  
+  - seule la première génération chrétienne était apte à reconnaître dans ces livres l'authentique prédication de l'unique Évangile.
+  
+  - si on retrouvait, miraculeusement conservé dans une jarre, un 5ème évangile en tout compatible avec la foi... il ne pourrait pas être intégré au canon ; il ne serait pas reconnu comme "inspiré".
+
 
 ### La réception des livres
 
@@ -538,32 +576,3 @@ C'est aussi la Grande Église qui est "inspirée" pour opérer ce discernement d
 
 Le fait qu'il est pratiquement impossible de nommer le lieu, la date, les acteurs de ce discernement laisse toute sa place à l'action de l'Esprit qui conduit l'Église.
 
-### La question de l'inspiration
-
-Comme l'écrit la commission biblique pontificale, en 2014,
-
-> La relation personnelle avec le Seigneur Jésus, vécue avec une foi intense et explicite en sa Personne, constitue le fondement principal de cette "inspiration" qui rend les apôtres capables de communiquer, oralement ou par écrit, le message de Jésus qui est la "Parole de Dieu".  
-> *Inspiration et Vérité de l'Écriture Sainte*, p. 39
-
-- "oralement ou par écrit"
-  
-  - la capacité à communiquer par écrit (les évangiles) n'est pas distinguée de la capacité de prêcher oralement (l'unique Évangile de Jésus)
-  
-  - c'est la fidélité à Jésus lui-même qui importe.
-
-- ce n'est pas l'identité précise de celui qui a écrit qui fonde l'inspiration.
-  
-  - c'est la mission de Jésus a confiée à ses disciples, et la foi/fidélité de ces disciples à leur Seigneur.
-  
-  > Qui vous écoute m'écoute  
-  > Lc 10,16
-
-- le phénomène de canonisation des 4 évangiles est essentiellement ecclésial.
-  
-  - traditionnellement, l'origine apostolique était l'un des éléments qui expliquait que les 4 évangiles font partie du canon (même si certains apocryphes sont dits de Pierre, de Thomas...)
-  
-  - on peut renverser l'argument : les 4 évangiles sont apostoliques parce qu'ils sont canoniques.
-  
-  - seule la première génération chrétienne était apte à reconnaître dans ces livres l'authentique prédication de l'unique Évangile.
-  
-  - si on retrouvait, miraculeusement conservé dans une jarre, un 5ème évangile en tout compatible avec la foi... il ne pourrait pas être intégré au canon ; il ne serait pas reconnu comme "inspiré".
