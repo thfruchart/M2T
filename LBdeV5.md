@@ -103,9 +103,9 @@ L'espace et le temps du livre "débordent" l'espace et le temps ordinaires : c'
 
 ### Tapisserie du château d'Angers
 
-![vue_ensemble](/home/snde/Documents/SNDE/M2T/Ap/1024px-Tapisserie_de_l'apocalypse.jpg)
+![vue_ensemble](Ap/1024px-Tapisserie_de_l'apocalypse.jpg)
 
-![2BETES](/home/snde/Documents/SNDE/M2T/Ap/2BETES.jpg)
+![2BETES](Ap/2BETES.jpg)
 
 > Ap 13,1-2<br/> Alors je vis monter de la mer une bête qui avait dix cornes et sept têtes ; sur ses cornes, dix diadèmes, sur ses têtes des noms blasphématoires.
 > La bête que je vis était semblable à un léopard, ses pattes étaient comme celles d’un ours et sa bouche comme la bouche d’un lion. Le dragon lui donna sa puissance, son trône et un grand pouvoir.
@@ -120,19 +120,19 @@ L'espace et le temps du livre "débordent" l'espace et le temps ordinaires : c'
   
   * Parole plus acérée qu'un glaive à deux tranchants
 
-![panneau_central](/home/snde/Documents/SNDE/M2T/Ap/AO17.png)
+![panneau_central](Ap/AO17.png)
 
 * Côté gauche : les ennemis de l'Agneau
   
   * Dragon et bêtes
 
-![Betes](/home/snde/Documents/SNDE/M2T/Ap/AO6.png)
+![Betes](Ap/AO6.png)
 
 * Côté droit : l'Agneau et ses fidèles
 
-![AO21](/home/snde/Documents/SNDE/M2T/Ap/AO21.png)
+![AO21](Ap/AO21.png)
 
-![AO22](/home/snde/Documents/SNDE/M2T/Ap/AO22.png)
+![AO22](Ap/AO22.png)
 
 > Ap 19, 11-16<br/>Alors je vis le ciel ouvert, et un cheval blanc apparut. Celui qui le monte s’appelle Fidèle et Vrai, il juge et fait la guerre avec justice.
 > Ses yeux sont comme un feu flamboyant ; sur sa tête il y a beaucoup de diadèmes ; il porte un nom écrit que personne ne connaît, sinon lui,
@@ -271,7 +271,7 @@ A la lumière de cet avertissement de Jésus, dans l'évangile selon Marc, mieux
 
 > Ap 1, 12-16<br/> Je me retournai pour voir celui qui parlait avec moi. Quand je me fus retourné, je vis **sept porte-lampes** d’or et, au milieu des porte-lampes, quelqu'un qui ressemblait à un **fils d’homme**. Il était vêtu d’une longue **robe** et portait une **ceinture** d’or à la poitrine. Sa tête et ses **cheveux** étaient blancs comme laine blanche, comme neige. Ses **yeux** étaient comme un feu flamboyant, ses **pieds** ressemblaient à du bronze incandescent, et sa **voix** était comme le bruit de grandes eaux. **Il avait dans sa main droite sept étoiles** ; de sa bouche sortait **une épée acérée**, à deux tranchants, et son visage était comme le soleil lorsqu'il brille dans toute sa puissance.
 
-![FdH](/home/snde/Documents/SNDE/M2T/Ap/AO17-bis.png)![Yeux](/home/snde/Documents/SNDE/M2T/Ap/Yeux.png)
+![FdH](Ap/AO17-bis.png)![Yeux](Ap/Yeux.png)
 
 Le livre est écrit dans le langage de l'Ancien Testament = sorte de vocabulaire de base ! 
 
@@ -381,7 +381,7 @@ La divinité de l'Agneau rédempteur est manifestée dans cette vision d'ouvertu
 > 7 Quand il ouvrit le **quatrième sceau**, j’entendis la voix du quatrième être vivant dire : **Viens** !
 > 8 Alors je vis un **cheval verdâtre**. Celui qui le montait avait pour nom la **Mort**, et **le séjour des morts l’accompagnait**. Pouvoir leur fut donné sur le quart de la terre, pour **tuer par l’épée, par la famine, par la peste** et par les bêtes sauvages de la terre.
 
-![4chevaux](/home/snde/Documents/SNDE/M2T/Ap/AO20.png)
+![4chevaux](Ap/AO20.png)
 
 Le trio "l'épée la famine et la peste" apparaît 
 
@@ -429,7 +429,7 @@ Le premier cavalier :
 > Ap 19, 11-16  
 > Alors je vis le ciel ouvert, et un cheval blanc apparut. Celui qui le monte s’appelle Fidèle et Vrai, il juge et fait la guerre avec justice.
 
-![blanc](/home/snde/Documents/SNDE/M2T/Ap/Blanc.jpg)
+![blanc](Ap/Blanc.jpg)
 
 > Ap 6,2<br/>Alors je vis **un cheval blanc**. Celui qui le montait tenait un arc ; une couronne lui fut donnée, et il partit en **vainqueur** et pour **vaincre**.
 
@@ -541,7 +541,7 @@ Puis
 > Ap 19, 11-16  
 > Alors je vis le ciel ouvert, et un cheval blanc apparut. Celui qui le monte s’appelle Fidèle et Vrai, il juge et fait la guerre avec justice.
 
-![blanc](/home/snde/Documents/SNDE/M2T/Ap/Blanc.jpg)
+![blanc](Ap/Blanc.jpg)
 
 > Ap 19,20 <br/>La **bête** fut prise, et avec elle le prophète de mensonge qui avait produit devant elle les signes par lesquels il avait égaré ceux qui avaient reçu la marque de la bête et qui se prosternaient devant son image. Tous deux furent jetés vivants dans l’étang de feu où brûle le soufre.
 
