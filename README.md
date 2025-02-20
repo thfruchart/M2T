@@ -1,1 +1,1 @@
-# M2T
+# Mercredis de théologie
