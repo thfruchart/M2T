@@ -160,8 +160,6 @@ Une note de la NBS indique
  tapi sur le seuil, se tenait prêt à bondir sur celui qui passait
 ```
 
-
-
 - "Mais toi, domine-le" : le verbe "dominer" (מָשַׁל) a été utilisé
   
   - pour la domination des astres sur le jour et la nuit en Gn1 
@@ -186,9 +184,9 @@ Cette PAROLE du SEIGNEUR est adressée à Caïn au moment où :
 
 - le récit tient ensemble deux choses : 
   
-  - la force qui poussera Caïn sur une pente descendante, s'il ouvre une porte
+  - la force qui poussera Caïn sur une pente descendante, s'il "ouvre une porte" 
   
-  - l'appel à dominer cette force, en agissant bien. 
+  - l'appel à dominer cette force, en "agissant bien". 
 
 - cet "agir bien" n'est pas seulement à entendre sur un registre moral :
   
@@ -197,16 +195,6 @@ Cette PAROLE du SEIGNEUR est adressée à Caïn au moment où :
   - Gn 12,16 "Quant à Abram, on le **traita bien** à cause d’elle [Sarah]"
   
   - bonté, bienveillance, bonheur
-
-
-
-
-
-
-
-
-
-
 
 ### Le Seigneur s'est-il montré injuste ?
 
@@ -230,18 +218,159 @@ On a noté que Caïn ne répond pas aux questions du Seigneur : "Pourquoi ?"
   
   - Mais Caïn ne saisit pas l'occasion.
 
+> 8Caïn parla à son frère Abel et, lorsqu'ils furent aux champs, Caïn attaqua son frère Abel et le tua.
+
+* "Caïn parla à son frère Abel"
+  
+  * litt. : Cain **dit** à son frère Abel
+  
+  * on attendrait ensuite les paroles prononcées par Caïn
+  
+  * certains manuscrits ajoutent "allons aux champs"
+  
+  * mais on peut aussi bien comprendre le récit nous présente une parole non-dite
+  
+  * Caïn ne répond pas au Seigneur
+  
+  * et il dit à son frère... RIEN
+
+* "lorsqu'ils furent aux champs, Caïn attaqua son frère Abel et le tua."
+  
+  * vis-à-vis de Caïn, Abel est toujours nomme "son frère"
+  
+  * le récit souligne que le premier meurtre est un fratricide
+    
+    => tout meurtre n'est-il pas un fratricide ?
+
+Retenons que Caïn a "répondu" aux questions du Seigneur, non en paroles, mais en acte. 
+
+L'offrande à Dieu signifie normalement la reconnaissance envers lui. 
+
+- Les fruits de la terre viennent de la bonté du créateur
+
+- L'offrande (des prémisses) exprime la gratitude de l'être humain, qui reçoit la nature comme un don.
+
+Le passage de la logique de l'offrande à celle du meurtre est saisissant. 
+
+- la rivalité entre frères semble être la cause de ce basculement
+
+- la pensée moderne va rapidement demander des comptes à Dieu... après tout, ce serait lui qui serait responsable de la situation !
+  
+  - prenons conscience que le texte ne nous oriente pas vers ce genre de question
+  
+  - Dieu n'explique pas... il interpelle Caïn !
+  
+  - il souligne la liberté de Caïn, dans son "agir bien" (ou non)
+
+- on peut chercher (un instant) en quoi pourrait consister le fait d'agir-bien : 
+  
+  - parler au Seigneur, répondre à ses questions, voire le questionner
+  
+  - parler à Abel... en vérité ! 
+  
+  - pour lui demander conseil? 
+  
+  - "Abel son frère" pourrait être une aide pour Caïn, même (surtout) dans une situation d'incompréhension ou de colère
+
+### Les conséquences du fratricide
+
+> 9Le SEIGNEUR dit à Caïn : « Où est ton frère Abel ? » 
+> 
+> – « Je ne sais, répondit-il. Suis-je le gardien de mon frère ? »
+
+- la question du Seigneur est rhétorique
+  
+  - il offre à Caïn l'occasion de prendre la parole
+
+- la réponse de Caïn relève du mensonge
+  
+  - "je ne sais"
+
+- avec une contre-question (rhétorique) : "Suis-je le gardien de mon frère?"
+  
+  - Caïn n'a pas saisi la première occasion de dire la vérité, ou de questionner le Seigneur
+  
+  - après le meurtre, sa parole est faussée :  il sous-entend qu'il n'est PAS le gardien de son frère
+
+- La question est tout de même intéressante, car le verbe "garder" est très utilisé dans la Bible
+  
+  - Gn 2,15 "Le Seigneur Dieu prit l’homme et le plaça dans le jardin d’Eden pour le cultiver et pour le **garder**."  => prendre soin
+  
+  - Gn 17,9 "Dieu dit à Abraham : Toi, tu **garderas** mon alliance"  => observer
+  
+  - Gn 30,31 "je recommencerai à faire paître ton petit bétail ; je le **garderai**."
+
+- C'est la question fondamentale des rapports entre frères (entre humains?) que Caïn souligne
+  
+  - rivalité ?
+  
+  - prendre soin / garder ?
+
+- Caïn pense qu'il n'est PAS le gardien de son frère, 
+  
+  - mais le lecteur du récit peut comprendre l'exact inverse ! 
+  
+  - Caïn aurait pu / dû prendre soin de son frère
+  
+  - ou accepter que son frère puisse prendre soin de lui ?
+
+> 10« Qu'as-tu fait ? reprit-il. 
+> 
+> La voix du sang de ton frère crie du sol vers moi. 
+> 
+> 11Tu es maintenant maudit du sol qui a ouvert la bouche pour recueillir de ta main le sang de ton frère. 
+> 
+> 12Quand tu cultiveras le sol, il ne te donnera plus sa force. 
+> 
+> Tu seras errant et vagabond sur la terre. »
+
+- Remarquer que le Seigneur continue de questionner Caïn
+  
+  - "Qu'as-tu fait ?"
+  
+  - ce n'est sans doute pas une question rhétorique :  même si le Seigneur sait ce que Caïn a fait, il le questionne => il questionne sa conscience.
+
+La suite des paroles divines s'exprime sur le mode du constat.
+
+- Le Seigneur énonce, avec autorité, les conséquences du fratricide
+  
+  - pour le sol
+  
+  - pour Caïn
+
+- Le Seigneur ne dit pas :
+  
+  - sois maudit
+
+- mais
+  
+  - tu es maudit du sol
+
+- la conséquence de cela est que
+  
+  - le "sol" ne donnera plus sa force à Caïn... qui est cultivateur ! 
+  
+  - il deviendra donc errant sur la Terre
+
+Le premier constat, dont dépend la suite, mentionne le sang
+
+> La voix du sang de ton frère crie du sol vers moi.
+
+* le sang versé, appelle, crie : "Justice !"
+
+* la Torah va établir des règles pour que justice soit faite, lorsque le sang est versé. 
+
 ### SANG
 
-> Gn 9<br/>4 Seulement, vous ne mangerez pas de chair avec sa vie, c’est-à-dire avec son sang.
-> 5 De plus, je réclamerai [דָּרַשׁ] votre sang, pour votre vie [נֶפֶשׁ] ; je le réclamerai à tout animal ; et je réclamerai à chaque être humain la vie de l’homme qui est son frère.
+Au sortir de l'Arche, Noé reçoit de nouvelles instructions, lorsqu'il établit une alliance avec lui. 
+
+> Gn 9<br/>4 Seulement, vous ne mangerez pas de chair avec sa **vie**, c’est-à-dire avec son sang.
+> 5 De plus, je **réclamerai** [דָּרַשׁ] votre **sang**, pour votre vie [נֶפֶשׁ] ; je le **réclamerai** à tout animal ; et je **réclamerai** à chaque être humain la vie de l’homme qui est son frère.
 > 6 Celui qui répand le sang de l’être humain, par l’être humain son sang sera répandu. Car à l’image de Dieu l’homme a été fait.
 
-Echos à :
-
-* suis-je le gardien de mon frère ?
-
-* la voix des sangs de ton frère crie vers moi... 
-
+- le sang, c'est la VIE, et elle appartient à Dieu
+  
+  - lorsque le sang est versé, par un animal ou un humain, Dieu va le "réclamer"
 * "réclamer"  [דָּרַשׁ] = litt. chercher
   
   * enquêter
@@ -249,16 +378,41 @@ Echos à :
   * poursuivre (poursuites judiciaires)
   
   * il faut comprendre qu'il n'y aura pas d'impunité... 
+  
+  * que le sang versé appelle une compensation
+
+Un premier principe est donc :
+
+* le sang appartient à Dieu... 
+  
+  * c'est lui qui se charge de le "réclamer"
 
 Mais au v.6 : 
 
 * changement de style (non pas JE, VOUS) mais "celui qui"...
   
+  "Celui qui répand le sang de l’être humain, par l’être humain son sang sera répandu"
+  
   * retour sur le plan humain
   
-  * sorte de "loi" de la nature => loi divine ???
+  * loi de réciprocité
+  
+  * sorte de "loi" de la nature => loi divine ?
+  
+  * justice à hauteur d'humains
+- Le principe fondamental est que c'est Dieu qui "poursuit" le sang versé
+  
+  - mais les être humains sont eux aussi responsables de rechercher la justice
 
-* ce thème sera repris dans les lois concernant le "rédempteur du sang" [ גֹּאֵ֣ל הַדָּ֑ם]
+- Rachi suggère que les être humains sont responsables de rendre la justice, laissant à Dieu de poursuivre le meurtrier qui a agi dans le secret
+  
+  > A celui qui tue volontairement et sans qu'il y ait de témoins, c'est moi qui lui en demanderai compte.
+  
+  - responsabilité des humains => code civil
+  
+  - ce qui dépasse les humains => Dieu s'en charge ?
+
+Ce thème sera repris dans les lois concernant le "rédempteur du sang" [ גֹּאֵ֣ל הַדָּ֑ם]
 
 **Nb 35**
 
@@ -283,14 +437,180 @@ Mais au v.6 :
 > 
 > 28 Car le meurtrier doit rester dans sa ville de refuge jusqu'à la mort du grand prêtre ; après la mort du grand prêtre, le meurtrier pourra revenir dans sa propriété.
 
-Le texte biblique ne sépare par le "code civil" du "code religieux".
+- le "rédempteur du sang" est chargé de "réclamer" le sang versé... 
+  
+  - en versant lui-même le sang de l'agresseur. 
+  
+  - selon le principe énoncé à Noé : "Celui qui répand le sang de l’être humain, par l’être humain son sang sera répandu"
+  
+  - le principe est celui de la rétribution
 
-Il articule la vie sociale et la vie dans l'alliance
+"si le rédempteur du sang tue le meurtrier, il ne sera pas coupable de meurtre"
 
-> 33 Vous ne profanerez pas le pays où vous êtes ; c’est le sang qui profane le pays ; et il ne sera fait pour le pays aucune expiation du sang qui y est répandu, sinon par le sang de celui qui l’a répandu.
+- le système du rédempteur vise deux choses a priori contradictoire
+  
+  - verser le sang du meurtrier
+  
+  - sans devenir soi-même un meurtrier
+  
+  - sinon, le sang continuera d'être versé sans fin, au nom d'une "juste vengeance"...
+
+- d'un côté, l'exigence de justice, dans un société
+
+- de l'autre le risque d'un cycle infernal de violence qui ne s'arrête jamais
+
+**Retour à l'histoire de Caïn** 
+
+- même si "la voix du sang de ton frère crie du sol vers moi"
+
+- le Seigneur ne réclame PAS que le sang de Caïn soit versé ! 
+  
+  - le récit est situé avant toutes les règles d'un futur code civil
+  
+  - par sa position originelle, ce récit a une fonction critique de ce qui va suivre. 
+  
+  - est-il vraiment nécessaire, au fond, que le sang du meurtrier soit versé ?
+
+### Réaction de Caïn...
+
+> 13Caïn dit au SEIGNEUR : « Ma faute est trop lourde à porter. 
 > 
-> 34 Tu ne rendras pas impur le pays où vous habitez et au milieu duquel je demeure : je suis le Seigneur (YHWH), et je demeure au milieu des Israélites.
+> 14Si tu me chasses aujourd'hui de l'étendue de ce sol, je serai caché à ta face, je serai errant et vagabond sur la terre, et quiconque me trouvera me tuera. » 
 
-Rachi suggère que les être humains sont responsables de rendre la justice, laissant à Dieu de poursuivre le meurtrier qui a agi dans le secret
+- pour la première fois dans le récit, Caïn parle au Seigneur pour dire la vérité :
+  
+  - "Ma faute est trop lourde à porter"
 
-> A celui qui tue volontairement et sans qu'il y ait de témoins, c'est moi qui lui en demanderai compte.
+- Caïn reprend les termes du "constat" énoncé par le Seigneur
+  
+  - "je serai errant et vagabond sur la terre"
+
+- mais il ajoute l'idée que le Seigneur le chasse
+  
+  - ce qui était un "constat" dans les paroles du Seigneur
+  
+  - est interprété comme un châtiment, une décision divine.
+
+La fin des paroles de Caïn est remarquable : 
+
+> quiconque me trouvera me tuera
+
+- le système du "rédempteur du sang" n'est pas encore en place
+
+- mais le meurtre lui-même fait du meurtrier une cible.
+
+On peut tout de même s'interroger : en dehors d'Adam et Eve... qui pourrait bien tuer Caïn ?
+
+Certaines éditions de Rachi précisent : 
+
+```
+il s'agit des animaux domestiques et des bêtes sauvages
+```
+
+D'après ces traditions, Caïn se dit en effet :
+
+```
+Désormais, à cause de cette faute que j'ai commise,
+les bêtes ne me craindront plus et elles me tueront.
+```
+
+### Réaction du Seigneur...
+
+> 15Le SEIGNEUR lui dit : « Eh bien ! Si l'on tue Caïn, il sera vengé sept fois. » 
+> 
+> Le SEIGNEUR mit un signe sur Caïn pour que personne en le rencontrant ne le frappe.
+
+- ce signe sur Caïn :
+  
+  - évitera que le sang de Caïn soit versé
+  
+  - en le protégeant des animaux sauvages ?
+
+- la priorité n'est pas de "poursuivre" le sang versé
+  
+  - c'est, au contraire, d'empêcher que le sang (de Caïn) soit versé
+
+- on peut dire, ici, que Dieu "prend soin" du meurtrier
+  
+  - il le "garde", pour éviter que la violence se déchaîne !
+
+On peut donc lire le signe sur Caïn comme une "mesure de sauvegarde".
+
+- la justice semble assurée par le sol
+  
+  - qui ne donne plus sa force à Caïn, 
+  
+  - car il a "ouvert la bouche" pour "recueillir" le sang d'Abel
+
+- la vengeance est interdite par Dieu lui-même
+  
+  - au moyen d'un signe (dont on ne connaît rien d'autre que l'existence)
+  
+  - mais sous la menace d'une vengeance "sept fois" . 
+
+- on peut donc lire dans la fin du texte
+  
+  - la volonté divine de contenir la  violence
+  
+  - et le danger d'un déferlement de cette violence au septuple... 
+
+> 16Caïn s'éloigna de la présence du SEIGNEUR et habita dans le pays de Nod à l'orient d'Eden.
+
+- au final, Caïn ne semble pas "errant et vagabond"
+
+- mais il s'éloigne de la présence du Seigneur
+  
+  - il pense qu'il est "chassé" ?
+
+- il s'est éloigné de la présence du Seigneur
+  
+  - en ne répondant pas, la première fois, aux questions que le Seigneur lui pose
+  
+  - en tuant son frère
+  
+  - puis en s'installant "dans le pays de Nod"
+
+En jouant sur le mot Nod (qui peut signifier "mouvement"), Rachi note
+
+``` 
+"Dans le pays de Nod" - partout où il allait, 
+la terre tremblait sous ses pieds et les créatures disaient :
+"Écartez-vous de lui, c'est lui qui a tué son frère !"
+```
+
+**Lamek, descendant de Caïn**
+
+La suite de Gn 4 présente les descendants de Caïn, et sept générations plus tard, un certain Lamek affirme :
+
+> 24Oui, Caïn sera vengé sept fois, mais Lamek soixante-dix-sept fois. 
+
+- sept générations plus tard, la spirale de la vengeance s'intensifie, au moins en paroles... 
+  
+  - non plus sept fois,
+  
+  - mais soixante-dix-sept fois
+
+Ceci nous rappelle les paroles de Jésus à Pierre : 
+
+**Mt 18,21-22**
+
+> Alors  Pierre vint lui demander : Seigneur, combien de fois pardonnerai-je à 
+> mon frère, lorsqu'il péchera contre moi ? Jusqu'à sept fois ? 
+> 
+> Jésus lui dit : Je ne te dis pas jusqu'à sept fois, mais jusqu'à soixante-dix fois sept fois.
+
+- Jésus surenchérit encore sur Lamek,
+  
+  - mais pour promouvoir le pardon, et non la vengeance !
+
+- Ce faisant, Jésus est fidèle au "signe sur Caïn"
+  
+  - qui visait à interdire la vengeance
+  
+  - au risque d'un déferlement au septuple... voire davantage.
+
+On peut aussi se rappeler Mt 5,21-22a
+
+> Vous avez entendu qu'il a été dit aux anciens : Tu ne commettras pas de **meurtre** ; celui qui commet un **meurtre** sera passible du jugement. 
+> 
+> Mais moi, je vous dis : Quiconque se met en **colère** contre **son frère** sera passible du jugement.
