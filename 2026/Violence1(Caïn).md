@@ -4,21 +4,73 @@ Psaume ?
 
 ### Mercredi de théologie 1/5
 
+## 5 séances pour se confronter à la violence dans la Bible
+
+La violence traverse notre monde.
+
+Nous sommes traversés par la violence : celle qui nous subissons, celle qui nous habite...
+
+Il n'est pas étonnant de rencontrer, dans la Bible, de la violence.
+
+Qu'est-ce que cela peut nous révéler
+
+- de l'être humain ?
+
+- de Dieu ?
+
+- des relations entre humains et Dieu ?
+
+Nous n'aurons pas trop de 5 soirées pour explorer la question. 
+
+1. Caïn et Abel : Gn 4
+
+2. Une leçon de non violence pour David :  1Sa 24-26
+
+3. Dieu commande-t-il d'exterminer ses ennemis ? Jos 6-7
+
+4. Dieu commande-t-il des abominations ? Jr19-Ez20 et Gn22
+
+5. Jésus face à la violence
+
 # Caïn et Abel
 
 En ouvrant la Bible au premier livre, on trouve d'abord les récits de création, puis la première transgression et ses conséquences. 
 
 Vient ensuite, très vite, le premier meurtre : c'est un fratricide ! 
 
-Il y a 2 ans, lors des mercredi de théologie, nous avons eu l'occasion de souligner que les récits de création, dans la Bible, se déroulent dans une atmosphère sereine, qui contraste très fortement avec les mythes du Proche-Orient Ancien dans lesquels le ciel et la terre sont la dépouille d'un dieu vaincu mis à mort par d'autres dieux après un conflit primordial entre divinités. 
+Il y a 2 ans, lors des mercredi de théologie, nous avons eu l'occasion de souligner que 
+
+- les récits de création, dans la Bible, se déroulent dans une atmosphère sereine, 
+
+- qui contraste très fortement avec les mythes du Proche-Orient Ancien dans lesquels 
+  
+  - le ciel et la terre sont la dépouille d'un dieu vaincu 
+  
+  - mis à mort par d'autres dieux après un conflit primordial entre divinités. 
 
 En ce sens, on peut dire que le ciel et la terre sont créés par Dieu dans la non-violence ! 
 
-Il va falloir raconter, ensuite, l'irruption de la violence dans le monde, mais il est significatif que cette violence n'est pas originelle. Elle est un "accident" de la création, et le récit de Gn 4 souligne la place de la liberté humaine. 
+Il va falloir raconter, ensuite, l'irruption de la violence dans le monde, 
 
-Caïn tue son frère Abel : on ne cherchera pas à lire ce passage comme un reportage sur la manière dont les faits se sont exactement déroulés, puisque la Bible n'est pas un procès-verbal de gendarmerie...
+- mais il est significatif que cette violence n'est pas originelle. 
 
-On cherchera ce que le livre de la Genèse cherche à dire de la violence, du danger qu'elle représente, et de la manière dont Dieu est concerné par tout cela. 
+- elle est un "accident" de la création,
+
+- le récit de Gn 4 souligne l'importance de la liberté humaine. 
+
+Lisons le récit où Caïn tue son frère Abel : 
+
+- on ne cherchera pas à lire ce passage comme un reportage sur la manière dont les faits se sont exactement déroulés, 
+  
+  - puisque la Bible n'est pas un procès-verbal de gendarmerie...
+
+- on cherchera ce que le livre de la Genèse cherche à dire 
+  
+  - de la violence, 
+  
+  - du danger qu'elle représente, 
+  
+  - et de la manière dont Dieu est concerné par tout cela. 
 
 **Gn 4**
 
@@ -94,7 +146,7 @@ On cherchera ce que le livre de la Genèse cherche à dire de la violence, du da
 
 - le texte ne dit pas "comment" Caïn et Abel savent de quelle manière le Seigneur regarde leur offrande.
   
-  - Rachi précise qu'un feu est descendu du ciel et a consumé l'offrande de Caïn
+  - Rachi précise qu'un feu est descendu du ciel et a consumé l'offrande d'Abel
   
   - mais le texte biblique n'apporte pas cette précision : il donne juste le résultat.
 
@@ -110,7 +162,7 @@ On cherchera ce que le livre de la Genèse cherche à dire de la violence, du da
   
   - dans le début de la Genèse, les personnages parlent avec Dieu "à hauteur d'homme"
   
-  - le récit ne mentionne pas de parole du Seigneur à Abel
+  - le récit ne mentionne pas de parole du Seigneur à Abel... 
   
   - Caïn est en position d'interlocuteur (privilégié?) devant le Seigneur, qui lui pose des questions 
 
@@ -144,6 +196,8 @@ Vient ensuite une question plus fermée (rhétorique) :
   - la référence reste le BIEN AGIR
 
 - la liberté de Caïn est donc soulignée
+  
+  - positivement :  possibilité d'élévation
   
   - négativement : l'absence de "bien agir" semble ouvrir une porte
   
@@ -222,7 +276,7 @@ On a noté que Caïn ne répond pas aux questions du Seigneur : "Pourquoi ?"
 
 * "Caïn parla à son frère Abel"
   
-  * litt. : Cain **dit** à son frère Abel
+  * litt. : Cain **dit** à son frère Abel... 
   
   * on attendrait ensuite les paroles prononcées par Caïn
   
@@ -236,7 +290,7 @@ On a noté que Caïn ne répond pas aux questions du Seigneur : "Pourquoi ?"
 
 * "lorsqu'ils furent aux champs, Caïn attaqua son frère Abel et le tua."
   
-  * vis-à-vis de Caïn, Abel est toujours nomme "son frère"
+  * vis-à-vis de Caïn, Abel est toujours nommé "son frère"
   
   * le récit souligne que le premier meurtre est un fratricide
     
@@ -264,7 +318,7 @@ Le passage de la logique de l'offrande à celle du meurtre est saisissant.
 
 - on peut chercher (un instant) en quoi pourrait consister le fait d'agir-bien : 
   
-  - parler au Seigneur, répondre à ses questions, voire le questionner
+  - parler au Seigneur, répondre à ses questions, voire le questionner...
   
   - parler à Abel... en vérité ! 
   
@@ -328,7 +382,9 @@ Le passage de la logique de l'offrande à celle du meurtre est saisissant.
   
   - "Qu'as-tu fait ?"
   
-  - ce n'est sans doute pas une question rhétorique :  même si le Seigneur sait ce que Caïn a fait, il le questionne => il questionne sa conscience.
+  - même si le Seigneur sait ce que Caïn a fait, il le questionne
+  
+  - il questionne sa conscience.
 
 La suite des paroles divines s'exprime sur le mode du constat.
 
@@ -354,7 +410,7 @@ La suite des paroles divines s'exprime sur le mode du constat.
 
 Le premier constat, dont dépend la suite, mentionne le sang
 
-> La voix du sang de ton frère crie du sol vers moi.
+> La voix du **sang** de ton frère crie du sol vers moi.
 
 * le sang versé, appelle, crie : "Justice !"
 
@@ -362,10 +418,10 @@ Le premier constat, dont dépend la suite, mentionne le sang
 
 ### SANG
 
-Au sortir de l'Arche, Noé reçoit de nouvelles instructions, lorsqu'il établit une alliance avec lui. 
+Au sortir de l'Arche, Noé recevra de nouvelles instructions, lorsque le Seigneur établira une alliance avec lui. 
 
-> Gn 9<br/>4 Seulement, vous ne mangerez pas de chair avec sa **vie**, c’est-à-dire avec son sang.
-> 5 De plus, je **réclamerai** [דָּרַשׁ] votre **sang**, pour votre vie [נֶפֶשׁ] ; je le **réclamerai** à tout animal ; et je **réclamerai** à chaque être humain la vie de l’homme qui est son frère.
+> Gn 9<br/>4 Seulement, vous ne mangerez pas de chair avec sa **vie**, c’est-à-dire avec son **sang**.
+> 5 De plus, je **réclamerai** [דָּרַשׁ] votre **sang**, pour votre **vie** [נֶפֶשׁ] ; je le **réclamerai** à tout animal ; et je **réclamerai** à chaque être humain la **vie** de l’homme qui est son **frère**.
 > 6 Celui qui répand le sang de l’être humain, par l’être humain son sang sera répandu. Car à l’image de Dieu l’homme a été fait.
 
 - le sang, c'est la VIE, et elle appartient à Dieu
@@ -406,7 +462,10 @@ Mais au v.6 :
 
 - Rachi suggère que les être humains sont responsables de rendre la justice, laissant à Dieu de poursuivre le meurtrier qui a agi dans le secret
   
-  > A celui qui tue volontairement et sans qu'il y ait de témoins, c'est moi qui lui en demanderai compte.
+  ```
+  A celui qui tue volontairement et sans qu'il y ait de témoins, 
+  c'est moi qui lui en demanderai compte [note sur Gn 9,5]
+  ```
   
   - responsabilité des humains => code civil
   
@@ -459,7 +518,7 @@ Ce thème sera repris dans les lois concernant le "rédempteur du sang" [ גֹּ
 
 - de l'autre le risque d'un cycle infernal de violence qui ne s'arrête jamais
 
-**Retour à l'histoire de Caïn** 
+### Retour à l'histoire de Caïn
 
 - même si "la voix du sang de ton frère crie du sol vers moi"
 
@@ -532,11 +591,11 @@ les bêtes ne me craindront plus et elles me tueront.
 
 - on peut dire, ici, que Dieu "prend soin" du meurtrier
   
-  - il le "garde", pour éviter que la violence se déchaîne !
+  - il le "garde", pour éviter que la violence se déchaîne... 
 
 On peut donc lire le signe sur Caïn comme une "mesure de sauvegarde".
 
-- la justice semble assurée par le sol
+- la *punition* semble assurée par le sol
   
   - qui ne donne plus sa force à Caïn, 
   
@@ -546,7 +605,7 @@ On peut donc lire le signe sur Caïn comme une "mesure de sauvegarde".
   
   - au moyen d'un signe (dont on ne connaît rien d'autre que l'existence)
   
-  - mais sous la menace d'une vengeance "sept fois" . 
+  - mais sous la menace d'une vengeance "sept fois plus". 
 
 - on peut donc lire dans la fin du texte
   
@@ -572,7 +631,7 @@ On peut donc lire le signe sur Caïn comme une "mesure de sauvegarde".
 
 En jouant sur le mot Nod (qui peut signifier "mouvement"), Rachi note
 
-``` 
+```
 "Dans le pays de Nod" - partout où il allait, 
 la terre tremblait sous ses pieds et les créatures disaient :
 "Écartez-vous de lui, c'est lui qui a tué son frère !"
@@ -609,8 +668,48 @@ Ceci nous rappelle les paroles de Jésus à Pierre :
   
   - au risque d'un déferlement au septuple... voire davantage.
 
+- Mais Jésus renverse la logique
+  
+  - non par interdire la vengeance
+  
+  - mais commander de pardonner
+
 On peut aussi se rappeler Mt 5,21-22a
 
 > Vous avez entendu qu'il a été dit aux anciens : Tu ne commettras pas de **meurtre** ; celui qui commet un **meurtre** sera passible du jugement. 
 > 
 > Mais moi, je vous dis : Quiconque se met en **colère** contre **son frère** sera passible du jugement.
+
+- Jésus remonte, plus haut que le meurtre : à la colère
+  
+  - car elle peut conduire au meurtre
+  
+  - comme Caïn envers son frère Abel
+
+- il est remarquable que Jésus ne parle pas ici du "prochain", mais du "frère".
+  
+  - car tout être humain est mon frère / ma sœur
+  
+  - il s'agit de lutter contre la racine du meurtre... tel qu'exposée dans le récit de la Genèse
+
+### Un verset de psaume pour terminer
+
+Ps 50(51),16 (TOB)
+
+> Mon Dieu, Dieu sauveur, libère-moi du sang ;
+> 
+> que ma langue crie ta justice !
+
+- le psaume est attribué à David
+  
+  - "Quand le prophète Natan alla chez lui, après que David fut allé chez Bethsabée" (v.1)
+
+- le "sang" peut alors renvoyer au sang versé, 
+  
+  - sur ordre de David, qui a commandé la mort d'Urie, l'époux de Bethsabée.
+
+- David prie, afin d'être libéré du sang qu'il a fait verser.
+
+C'est ce qu'exprime la traduction liturgique : 
+
+> Libère-moi du sang versé, Dieu, mon Dieu sauveur, et ma langue acclamera ta justice.
