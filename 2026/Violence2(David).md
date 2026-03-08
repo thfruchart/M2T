@@ -76,20 +76,133 @@ David va donc devoir fuir devant Saül
 
 ## 1 Sa 24-26
 
-Ces trois chapitres sont assez longs, et présentent une structure remarquable.
+Ces trois chapitres sont assez longs, et présentent une structure remarquable, qu'on peut comparer à un drame en 3 actes
 
-#### 1 Sa 24
+#### Acte I : David épargne Saül à Enn-Guédi (1 Sa 24)
 
-- David épargne Saül à Enn-Guédi
+- Saül est à la poursuite de David avec 3000 hommes
+- Saül entre dans une grotte pour satisfaire un besoin naturel...
+- il ignore que David et ses hommes sont cachés dans la grotte
+- les hommes de David l'incitent à tuer Saül, au motif que le Seigneur l'a livré entre ses mains
+- David coupe un pan du manteau de Saül, puis "il sentit son cœur battre"
+- il réprimande ses hommes : pas question de "porter la main" sur le "messie du Seigneur"
+- quand Saül est à bonne distance, David lui révèle qu'il aurait pu le tuer, mais qu'il ne l'a pas fait : le pan de manteau coupé en est la preuve
+- Saül reconnaît que David est plus juste que lui
+- Saül reconnaît : "Maintenant, je le sais : tu seras le roi et la royauté d'Israël restera entre tes mains."
+- Saül demande à David d'épargner sa descendance, ce que David promet.
 
-#### 1 Sa 25
+#### Acte II : David, Nabal et Abigaïl (1 Sa 25)
 
-- David, Nabal et Abigaïl
+* la sagesse d'Abigaïl, femme de Nabal, va éviter à David de verser le sang
+  
+  * tel Caïn lorsqu'il est plein de colère
+  
+  * David est prêt à massacrer Nabal (et les siens)
+  
+  * mais contrairement à Caïn, il fait la rencontre d'Abigaïl, qui lui donne une "leçon de non-violence"
 
-#### 1 Sa 26
+#### Acte III : David épargne Saül à Hakila (1 Sa 26)
 
-- David épargne Saül à Hakila
+* Saül est à la poursuite de David avec 3000 hommes
+* David apprend où se trouve le camp de Saül, et demande qui veut descendre avec lui dans le camp
+* *Abishaï*  est volontaire : il se propose de tuer Saül avec sa propre lance, car le Seigneur l'a livré entre les mains de David.
+* "David dit à Avishaï : « Ne le tue pas ! Qui pourrait porter la main sur le messie du SEIGNEUR et demeurer impuni ? »"
+* David prend la lance et la gourde qui sont au chevet de Saül et s'en va
+* "Ils dormaient tous : une torpeur venue du SEIGNEUR était tombée sur eux."
+* A bonne distance, David interpelle d'abord Abner, qui n'a pas bien gardé le roi : la lance et la cruche en sont la preuve
+* Saül reconnaît la voix de David, qui lui reproche sa poursuite injuste
+* Saül reconnaît son péché, et promet de ne plus faire de mal à David
+* David fait restituer la lance du roi, et en appelle à la justice du Seigneur
+* Saül bénir David, et annonce sa réussite... puis ils se séparent.
 
 La proximité entre les chap. 24 et 26, où David épargne Saül par deux fois, indique qu'il faut lire le chap. 25 dans ce contexte particulier. 
 
 Même si les personnages du chap. 25 sont différents (Nabal et Abigaïl, plutôt que Saül), la place de ce chapitre entre deux récits similaires n'est pas le fruit du hasard. 
+
+* Dans les trois chapitres, de longs discours permettent aux personnages de discuter : 
+  
+  * les paroles ont autant de poids que les gestes
+  
+  * ceci contraste avec le récit où Caïn refuse de prendre la parole... avant de tuer son frère
+
+* A première lecture, ce sont les nombreuses ressemblances entre les actes I et III qui sont marquantes.
+  
+  * il sera utile d'observer aussi les (lègères) différences entre les deux récits
+  
+  * pour interpréter l'acte II
+
+A première lecture, on peut s'étonner :
+
+* car David refuse la violence dans les actes I et III...
+  
+  * il va même s'opposer à ceux qui proposent de tuer Saül
+
+* alors que dans l'acte II
+  
+  * il choisit la violence... 
+  
+  * dont il sera heureusement détourné par Abigaïl
+
+## Lecture de 1 Sa 25 (TOB)
+
+> 1Samuel mourut. Tout Israël se rassembla et célébra son deuil. On l'ensevelit 
+> chez lui à Rama. 
+
+Cette notice nécrologique est étonnamment brève :  surtout pour l'homme qui donne son nom à 2 livres bibliques. 
+
+A première lecture, on ne voit pas le rapport avec lui suite... il faudra y revenir plus tard.
+
+> David se mit en route et descendit vers le désert de Parân.
+> 
+> 2Il y avait à Maôn un homme dont l'exploitation se trouvait à Karmel. Cet 
+> homme était fort riche. Il avait trois mille moutons et mille chèvres. 
+> Il était à Karmel pour la tonte de son troupeau. 3L'homme s'appelait Naval, et sa femme Avigaïl. La femme était intelligente et jolie, mais l'homme était dur et méchant ; il était calébite.
+
+* La scène est située dans le sud du pays
+
+* les deux nouveaux personnages sont caractérisés de manière très contrastée
+  
+  * dans la suite du récit, chaque personnage "tiendra son rôle"
+
+> 4Apprenant au désert que Naval tondait ses moutons, 5David envoya dix garçons. David dit aux garçons : « Montez à Karmel. Vous irez trouver Naval et vous le saluerez de ma part. 6Vous direz : Bonne année ! Salut à toi, salut à ta maison, salut à tout ce qui t'appartient ! 7J'apprends qu'on fait la tonte chez toi. Maintenant, quand tes bergers ont été avec nous, nous ne les avons pas molestés, et ils n'ont rien perdu pendant tout le temps de leur séjour à Karmel. 8Interroge tes garçons et ils t'informeront. Que mes garçons trouvent chez toi un accueil favorable, car nous sommes venus un jour de fête ! Donne, je te prie, ce que tu peux donner à tes serviteurs et à ton fils David. »
+
+* Nabal est très riche
+  
+  * 
+
+* David fait demander une récompense pour les "bons services" de ses serviteurs
+  
+  * les notes des bibles indiquent qu'un tel usage existe, car les troupeaux des villages étaient exposés au pillage par des maraudeurs. 
+
+> 9Les garçons de David, étant arrivés, répétèrent toutes ces paroles à Naval au nom de David, et ils attendirent. 10Naval répondit aux serviteurs de David : « Qui est David et qui est le fils de Jessé ? Il y a aujourd'hui beaucoup d'esclaves qui s'évadent de chez 
+> leur maître. 11Et je prendrais de mon pain, de mon eau, de ma viande, que j'ai fait 
+> abattre pour mes tondeurs, pour les donner à des gens venus je ne sais d'où ! » 12Les garçons de David firent demi-tour et s'en retournèrent. A leur retour, ils vinrent rapporter tout cela à David. 13David dit à ses hommes : « Que chacun ceigne son épée ! » Chacun ceignit son épée. David, lui aussi, ceignit son épée. Environ quatre cents hommes montèrent à la suite de David, il en restait deux cents près des bagages.
+> 
+> 14Un des garçons avertit Avigaïl, la femme de Naval : « Voici, dit-il, que 
+> David a envoyé du désert des messagers porter ses compliments à notre 
+> maître, et notre maître s'est jeté sur eux. 15Or, ces hommes ont été très bons pour nous. Nous n'avons pas été molestés et nous n'avons rien perdu tout le temps que nous avons circulé avec eux, quand nous étions à la campagne. 16Ils ont été notre rempart la nuit et le jour, tout le temps que nous avons été avec eux à faire paître les brebis. 17Et maintenant, reconnais et vois ce que tu dois faire, car la perte de 
+> notre maître et de toute sa maison est décidée. Quant à lui, c'est un vaurien à qui on ne peut parler. »
+> 
+> 18Avigaïl se hâta de prendre deux cents pains, deux outres de vin, cinq brebis 
+> tout apprêtées, cinq mesures de grains grillés, cent grappes de raisin sec et deux cents gâteaux de figues, et elle les chargea sur les ânes. 19Elle dit aux garçons : « Passez devant moi. Je vous suis. » Mais elle ne prévint pas Naval, son mari.
+> 
+> 20Tandis que, montée sur un âne, elle descendait à l'abri de la montagne, David 
+> et ses hommes descendaient dans sa direction. Elle les rencontra. 21David
+>  s'était dit : « C'est donc en vain que j'ai protégé au désert tous les biens de cet individu sans que rien en disparaisse. Il m'a rendu le mal pour le bien. 22Que Dieu fasse ceci et encore cela à David – ou plutôt à ses ennemis – si, d'ici demain matin, de tout ce qui lui appartient, je lui laisse rien de ce qui urine contre un mur ! » 23Apercevant David, Avigaïl se hâta de descendre de l'âne. Elle se jeta face contre terre devant David et se prosterna. 24Puis elle tomba à ses pieds et dit : « A moi, à moi la faute, mon seigneur !
+>  Puisse ta servante parler à tes oreilles ! Ecoute les paroles de ta servante. 25Que mon seigneur ne fasse pas attention à ce vaurien, à Naval, car il mérite bien son nom :
+>  il s'appelle Infâme, et l'infamie s'attache à lui. Mais moi, ta servante, je n'avais pas vu les garçons de mon seigneur, tes envoyés. 26Cependant, mon seigneur, par la vie du SEIGNEUR et par ta propre vie, c'est le SEIGNEUR qui t'a empêché d'en venir au meurtre et de triompher par ta propre main. Que tes ennemis, que ceux qui veulent du mal à mon seigneur connaissent maintenant le sort de Naval ! 27Que cet hommage que ton esclave apporte à mon seigneur soit donné maintenant aux garçons qui marchent sur les pas de mon seigneur. 28Pardonne, je te prie, la faute de ta servante.
+> 
+> « En effet, le SEIGNEUR ne manquera point de faire à mon seigneur une maison stable, parce que mon seigneur a livré les guerres du SEIGNEUR et qu'on ne trouve pas de mal en toi, durant toute ta vie. 29Des hommes se sont levés afin de poursuivre mon seigneur et d'attenter à ses jours, mais la vie de mon seigneur restera ensachée dans le sachet des vivants auprès du SEIGNEUR, ton Dieu, tandis que celle de tes ennemis, le SEIGNEUR la lancera au loin, du creux de sa fronde. 30Lorsque le SEIGNEUR accomplira pour mon seigneur tout ce qu'il a dit de bien à ton sujet, il t'établira chef d'Israël. 31Tu
+> ne dois donc pas chanceler en versant le sang à la légère, mon seigneur ne doit pas trébucher en voulant triompher par lui-même. Et quand le SEIGNEUR aura fait du bien à mon seigneur, tu te souviendras de ta servante. »
+> 
+> 32David dit à Avigaïl : « Béni soit le SEIGNEUR, le Dieu d'Israël, qui t'a envoyée en ce jour à ma rencontre ! 33Béni soit ton bon sens, bénie sois-tu toi-même, pour m'avoir aujourd'hui retenu d'en venir au meurtre et de triompher par ma propre main ! 34Mais vraiment, par la vie du SEIGNEUR, le Dieu d'Israël, qui m'a empêché de te faire du mal, si tu n'étais pas venue aussi vite à ma rencontre, il ne serait resté à Naval, d'ici l'aurore, rien de ce qui urine contre un mur ! » 35David prit de sa main ce qu'elle lui avait apporté. A elle-même il dit : 
+> « Remonte en paix chez toi. Vois : j'ai écouté ta voix et je t'ai fait grâce. »
+> 
+> 36Avigaïl revint chez Naval. Voici qu'il faisait dans sa maison un festin, un 
+> vrai festin de roi. Naval avait le cœur en joie. Il était complètement ivre. Elle ne l'informa de rien jusqu'à l'aurore. 37Le lendemain matin, quand Naval eut cuvé son vin, sa femme lui raconta ce qui s'était passé. Alors le cœur de Naval mourut dans sa poitrine, et il fut comme pétrifié. 38Et au bout d'une dizaine de jours, le SEIGNEUR frappa Naval, et il mourut.
+> 
+> 39David apprit que Naval était mort et il dit : « Béni soit le SEIGNEUR qui a défendu ma cause, dans cet affront que m'avait fait Naval, et qui a retenu son serviteur de faire le mal. Quant à la malice de Naval, le SEIGNEUR l'a fait retomber sur sa tête. »
+> 
+> David envoya demander Avigaïl en mariage. 40Les serviteurs de David se rendirent chez Avigaïl à Karmel et ils lui parlèrent en ces termes : « David nous a envoyés chez toi pour te prendre pour sa femme. » 41Elle se leva, se prosterna la face contre terre et dit : « Ta servante est une esclave prête à laver les pieds des serviteurs de mon seigneur. » 42Avigaïl se hâta de partir. Elle monta sur son âne et, accompagnée de cinq de ses servantes, elle suivit les envoyés de David. Ainsi, elle devint sa femme.
+> 
+> 43David avait aussi épousé Ahinoam d'Izréel. Elles furent toutes les deux ses femmes. 44Saül avait donné sa fille Mikal, femme de David, à Palti, fils de Laïsh, qui était de Gallim.
