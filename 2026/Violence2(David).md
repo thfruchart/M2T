@@ -167,34 +167,219 @@ A première lecture, on ne voit pas le rapport avec lui suite... il faudra y rev
 > 4Apprenant au désert que Naval tondait ses moutons, 5David envoya dix garçons. David dit aux garçons : « Montez à Karmel. Vous irez trouver Naval et vous le saluerez de ma part. 6Vous direz : Bonne année ! Salut à toi, salut à ta maison, salut à tout ce qui t'appartient ! 7J'apprends qu'on fait la tonte chez toi. Maintenant, quand tes bergers ont été avec nous, nous ne les avons pas molestés, et ils n'ont rien perdu pendant tout le temps de leur séjour à Karmel. 8Interroge tes garçons et ils t'informeront. Que mes garçons trouvent chez toi un accueil favorable, car nous sommes venus un jour de fête ! Donne, je te prie, ce que tu peux donner à tes serviteurs et à ton fils David. »
 
 * Nabal est très riche
-  
-  * 
 
 * David fait demander une récompense pour les "bons services" de ses serviteurs
   
   * les notes des bibles indiquent qu'un tel usage existe, car les troupeaux des villages étaient exposés au pillage par des maraudeurs. 
 
-> 9Les garçons de David, étant arrivés, répétèrent toutes ces paroles à Naval au nom de David, et ils attendirent. 10Naval répondit aux serviteurs de David : « Qui est David et qui est le fils de Jessé ? Il y a aujourd'hui beaucoup d'esclaves qui s'évadent de chez 
-> leur maître. 11Et je prendrais de mon pain, de mon eau, de ma viande, que j'ai fait 
-> abattre pour mes tondeurs, pour les donner à des gens venus je ne sais d'où ! » 12Les garçons de David firent demi-tour et s'en retournèrent. A leur retour, ils vinrent rapporter tout cela à David. 13David dit à ses hommes : « Que chacun ceigne son épée ! » Chacun ceignit son épée. David, lui aussi, ceignit son épée. Environ quatre cents hommes montèrent à la suite de David, il en restait deux cents près des bagages.
-> 
+* mais les mots de David laissent planer une ambiguïté : "ils n'ont rien perdu pendant tout le temps de leur séjour à Karmel"
+  
+  * car les hommes de David les ont bien protégés... d'un danger extérieur ?
+  * on parce qu'ils ne les ont pas molestés !
+
+* Nabal est invité à "interroger ses garçons"
+
+> 9Les garçons de David, étant arrivés, répétèrent toutes ces paroles à Naval au nom de David, et ils attendirent. 10Naval répondit aux serviteurs de David : « Qui est David et qui est le fils de Jessé ? Il y a aujourd'hui beaucoup d'esclaves qui s'évadent de chez leur maître. 11Et je prendrais de mon pain, de mon eau, de ma viande, que j'ai fait abattre pour mes tondeurs, pour les donner à des gens venus je ne sais d'où ! » 12Les garçons de David firent demi-tour et s'en retournèrent. 
+
+- Nabal refuse :
+  
+  - de donner de ses provisions
+  
+  - et aussi d'interroger ses garçons
+
+- son opinion sur David est déjà faite : il sait que David est fils de Jessé
+  
+  - il s'exprime avec mépris
+  
+  - en comparant David avec un esclave en fuite
+
+> A leur retour, ils vinrent rapporter tout cela à David. 
+
+- comment David va-t-il réagir ?
+  
+  - aller à la rencontre de Nabal ?
+  
+  - s'expliquer en personne avec lui ?
+
+> 13David dit à ses hommes : « Que chacun ceigne son épée ! » Chacun ceignit son épée. David, lui aussi, ceignit son épée. Environ quatre cents hommes montèrent à la suite de David, il en restait deux cents près des bagages.
+
+- noter la répétition du mot "épée"
+  
+  - elle risque de se régler dans la violence :  l'épée pourrait ne servir qu'à impressionner... 
+
+La suite du récit ouvre une autre scène
+
 > 14Un des garçons avertit Avigaïl, la femme de Naval : « Voici, dit-il, que 
 > David a envoyé du désert des messagers porter ses compliments à notre 
-> maître, et notre maître s'est jeté sur eux. 15Or, ces hommes ont été très bons pour nous. Nous n'avons pas été molestés et nous n'avons rien perdu tout le temps que nous avons circulé avec eux, quand nous étions à la campagne. 16Ils ont été notre rempart la nuit et le jour, tout le temps que nous avons été avec eux à faire paître les brebis. 17Et maintenant, reconnais et vois ce que tu dois faire, car la perte de 
+> maître, et notre maître s'est jeté sur eux. 
+
+- le serviteur livre une interprétation des faits
+  
+  - "porter ses compliments" 
+  
+  - David a fait dire : "Bonne année ! Salut à toi"
+  
+  - "notre maître s'est jeté sur eux"
+  
+  - au sens figuré ! Nabal ne s'est pas conformé à l'usage, et a humilié David par ses paroles
+
+> 15Or, ces hommes ont été très bons pour nous. Nous n'avons pas été molestés et nous n'avons rien perdu tout le temps que nous avons circulé avec eux, quand nous étions à la campagne. 16Ils ont été notre rempart la nuit et le jour, tout le temps que nous avons été avec eux à faire paître les brebis. 
+
+- nous apprenons maintenant que les serviteurs de David ont vraiment protégé les bergers de Nabal :  
+  
+  - ils ont été "**très** bons" 
+
+- ni "molestés" et "rien perdu" 
+  
+  - ce sont les termes de David, repris par le serviteur
+
+- "Ils ont été notre rempart la nuit et le jour..."
+  
+  - expression lyrique, qui fait comprendre que la demande de David était parfaitement légitime
+  
+  - mais Nabal n'a pas interrogé ses serviteurs avant de répondre à David... 
+
+Le serviteur poursuit, s'adressant à Abigaïl :
+
+> 17Et maintenant, reconnais et vois ce que tu dois faire, car la perte de 
 > notre maître et de toute sa maison est décidée. Quant à lui, c'est un vaurien à qui on ne peut parler. »
-> 
+
+- il est invraisemblable qu'un serviteur s'exprime ainsi devant sa maîtresse
+  
+  - mais Abigaïl reprendra le terme "vaurien" pour qualifier Nabal
+
+- noter l'impossibilité de parler
+  
+  - qui peut nous évoquer le silence de Caïn
+
+Que va faire Abigaïl ?
+
 > 18Avigaïl se hâta de prendre deux cents pains, deux outres de vin, cinq brebis 
 > tout apprêtées, cinq mesures de grains grillés, cent grappes de raisin sec et deux cents gâteaux de figues, et elle les chargea sur les ânes. 19Elle dit aux garçons : « Passez devant moi. Je vous suis. » Mais elle ne prévint pas Naval, son mari.
-> 
-> 20Tandis que, montée sur un âne, elle descendait à l'abri de la montagne, David 
-> et ses hommes descendaient dans sa direction. Elle les rencontra. 21David
->  s'était dit : « C'est donc en vain que j'ai protégé au désert tous les biens de cet individu sans que rien en disparaisse. Il m'a rendu le mal pour le bien. 22Que Dieu fasse ceci et encore cela à David – ou plutôt à ses ennemis – si, d'ici demain matin, de tout ce qui lui appartient, je lui laisse rien de ce qui urine contre un mur ! » 23Apercevant David, Avigaïl se hâta de descendre de l'âne. Elle se jeta face contre terre devant David et se prosterna. 24Puis elle tomba à ses pieds et dit : « A moi, à moi la faute, mon seigneur !
->  Puisse ta servante parler à tes oreilles ! Ecoute les paroles de ta servante. 25Que mon seigneur ne fasse pas attention à ce vaurien, à Naval, car il mérite bien son nom :
->  il s'appelle Infâme, et l'infamie s'attache à lui. Mais moi, ta servante, je n'avais pas vu les garçons de mon seigneur, tes envoyés. 26Cependant, mon seigneur, par la vie du SEIGNEUR et par ta propre vie, c'est le SEIGNEUR qui t'a empêché d'en venir au meurtre et de triompher par ta propre main. Que tes ennemis, que ceux qui veulent du mal à mon seigneur connaissent maintenant le sort de Naval ! 27Que cet hommage que ton esclave apporte à mon seigneur soit donné maintenant aux garçons qui marchent sur les pas de mon seigneur. 28Pardonne, je te prie, la faute de ta servante.
-> 
-> « En effet, le SEIGNEUR ne manquera point de faire à mon seigneur une maison stable, parce que mon seigneur a livré les guerres du SEIGNEUR et qu'on ne trouve pas de mal en toi, durant toute ta vie. 29Des hommes se sont levés afin de poursuivre mon seigneur et d'attenter à ses jours, mais la vie de mon seigneur restera ensachée dans le sachet des vivants auprès du SEIGNEUR, ton Dieu, tandis que celle de tes ennemis, le SEIGNEUR la lancera au loin, du creux de sa fronde. 30Lorsque le SEIGNEUR accomplira pour mon seigneur tout ce qu'il a dit de bien à ton sujet, il t'établira chef d'Israël. 31Tu
-> ne dois donc pas chanceler en versant le sang à la légère, mon seigneur ne doit pas trébucher en voulant triompher par lui-même. Et quand le SEIGNEUR aura fait du bien à mon seigneur, tu te souviendras de ta servante. »
-> 
+
+- Abigaïl agit rapidement
+  
+  - la liste des provisions est impressionnante
+
+- le texte la décrit comme une femme ayant autorité
+  
+  - elle ne prévient pas son mari
+
+> 20Tandis que, montée sur un âne, elle descendait à l'abri de la montagne, David et ses hommes descendaient dans sa direction. Elle les rencontra. 
+
+Alors que le lecteur s'attend à la rencontre, qui sera déterminante pour la suite du récit... il découvre un "flaskback"  (analepse)
+
+> 21David  s'était dit : « C'est donc en vain que j'ai protégé au désert tous les biens de cet individu sans que rien en disparaisse. Il m'a rendu le mal pour le bien. 22Que Dieu fasse ceci et encore cela à David – ou plutôt à ses ennemis – si, d'ici demain matin, de tout ce qui lui appartient, je lui laisse rien de ce qui urine contre un mur ! » 
+
+- le narrateur nous fait pénétrer les pensées de David
+  
+  - non pas, au moment où il part en expédition (punitive)
+  
+  - mais au moment de la rencontre avec Abigaïl
+
+- l'état intérieur de David est la détermination
+  
+  - il s'est juré d'exterminer Nabal et tous ses mâles
+  
+  - cette affaire est devenue une querelle d'egos masculins
+
+Mais David va rencontrer une femme.
+
+> 23Apercevant David, Avigaïl se hâta de descendre de l'âne. Elle se jeta face contre terre devant David et se prosterna. 24Puis elle tomba à ses pieds et dit : « A moi, à moi la faute, mon seigneur !
+>  Puisse ta servante parler à tes oreilles ! Ecoute les paroles de ta servante. 25Que mon seigneur ne fasse pas attention à ce vaurien, à Naval, car il mérite bien son nom :  il s'appelle Infâme, et l'infamie s'attache à lui. 
+
+- Abigaïl sort le grand jeu :
+  
+  - prosternation
+  
+  - "mon seigneur"  (אֲדֹנִי)
+
+- elle détourne l'attention de David
+  
+  - non pas sur Nabal : "vaurien" ou "infâme" (ou "fou")
+  
+  - mais sur elle... "à moi la faute"
+
+On peut s'étonner de ce qu'Abigaïl réclame la faute...
+
+* est-ce la faute de Nabal ?
+  
+  * ou de David ?
+
+* ceci nous révèle que l'intention première d'Abigaïl
+  
+  * n'est pas d'établir les responsabilités exactes de chacun dans le conflit
+  
+  * en recherchant la manifestation de la vérité
+
+* en prenant sur elle la faute, Abigaïl risque de recevoir la fureur de David
+  
+  * mais puisqu'elle est une femme... elle a une chance de freiner David
+  
+  * d'autant que le récit précise, au v. 1, qu'elle est "très belle"
+  
+  * la suite du discours d'Abigaïl va confirmer que l'intention d'Abigaïl est de détourner David de sa violence
+
+> Mais moi, ta servante, je n'avais pas vu les garçons de mon seigneur, tes envoyés. 26Cependant, mon seigneur, par la vie du SEIGNEUR et par ta propre vie, c'est le SEIGNEUR qui t'a empêché d'en venir au meurtre et de triompher par ta propre main. Que tes ennemis, que ceux qui veulent du mal à mon seigneur connaissent maintenant le sort de Naval ! 27Que cet hommage que ton esclave apporte à mon seigneur soit donné maintenant aux garçons qui marchent sur les pas de mon seigneur. 28Pardonne, je te prie, la faute de ta servante.
+
+- la "faute" d'Abigaïl...
+  
+  - "n'avoir pas vu"...
+  
+  - est largement compensée
+  
+  - le présent préparé par Abigaïl dépasse ce que David pouvait espérer de Nabal
+
+Remarquer qu'au fil de son discours, Abigaïl **interprète théologiquement** la situation (v.26)
+
+* "c'est **le SEIGNEUR** qui t'a empêché d'en venir au **meurtre** et de triompher **par ta propre main**." (TOB)
+
+* "c’est le Seigneur qui t’a empêché de verser le **sang** et d’assurer toi-même ton propre **salut**." (NBS)
+
+C'est particulièrement audacieux de la part d'Abigaïl
+
+* au moment où elle empêche David d'en venir au sang
+
+* elle affirme que c'est le Seigneur qui agit
+  
+  * prétention ?
+  
+  * humilité ?
+  
+  * les deux ?
+
+Mais le discours d'Abigaïl ne s'arrête pas là :  
+
+- elle poursuit son propos théologique, 
+  
+  - au futur, 
+  
+  - sans plus mentionner Nabal
+  
+  - mais à propos de David.
+
+> « En effet, le SEIGNEUR ne manquera point de faire à mon seigneur une maison stable, parce que mon seigneur a livré les guerres du SEIGNEUR et qu'on ne trouve pas de mal en toi, durant toute ta vie. 29Des hommes se sont levés afin de poursuivre mon seigneur et d'attenter à ses jours, mais la vie de mon seigneur restera ensachée dans le sachet des vivants auprès du SEIGNEUR, ton Dieu, tandis que celle de tes ennemis, le SEIGNEUR la lancera au loin, du creux de sa fronde. 30Lorsque le SEIGNEUR accomplira pour mon seigneur tout ce qu'il a dit de bien à ton sujet, il t'établira chef d'Israël. 
+
+- la "fronde" rappelle la victoire de David contre Goliath
+
+- la "maison stable" anticipe la promesse que le prophète Nathan adressera à David
+
+- le mot "chef d'Israël"
+  
+  - annonce la pleine royauté de David
+
+Ceci permet de relire l'attitude d'Abigaïl, lorsqu'elle rencontre David
+
+* prosternation
+
+* "mon seigneur"
+  
+  * c'est une attitude appropriée... envers le roi.
+  
+  * 
+
+> 31Tu ne dois donc pas chanceler en versant le sang à la légère, mon seigneur ne doit pas trébucher en voulant triompher par lui-même. Et quand le SEIGNEUR aura fait du bien à mon seigneur, tu te souviendras de ta servante. »
+
 > 32David dit à Avigaïl : « Béni soit le SEIGNEUR, le Dieu d'Israël, qui t'a envoyée en ce jour à ma rencontre ! 33Béni soit ton bon sens, bénie sois-tu toi-même, pour m'avoir aujourd'hui retenu d'en venir au meurtre et de triompher par ma propre main ! 34Mais vraiment, par la vie du SEIGNEUR, le Dieu d'Israël, qui m'a empêché de te faire du mal, si tu n'étais pas venue aussi vite à ma rencontre, il ne serait resté à Naval, d'ici l'aurore, rien de ce qui urine contre un mur ! » 35David prit de sa main ce qu'elle lui avait apporté. A elle-même il dit : 
 > « Remonte en paix chez toi. Vois : j'ai écouté ta voix et je t'ai fait grâce. »
 > 
