@@ -364,30 +364,298 @@ Mais le discours d'Abigaïl ne s'arrête pas là :
 
 - la "maison stable" anticipe la promesse que le prophète Nathan adressera à David
 
+- "des hommes se sont levés" : évoque les hommes de Saül
+
 - le mot "chef d'Israël"
   
   - annonce la pleine royauté de David
+  - qui "accomplira" tout ce que "LE SEIGNEUR" a dit
 
 Ceci permet de relire l'attitude d'Abigaïl, lorsqu'elle rencontre David
 
-* prosternation
+* elle se prosterne, elle l'appelle "mon seigneur"...  
+  
+  * est-ce pour amadouer David ?
+  
+  * c'est aussi une attitude appropriée... envers le (futur) roi.
 
-* "mon seigneur"
-  
-  * c'est une attitude appropriée... envers le roi.
-  
-  * 
+Abigaïl a une sagesse impressionnante, qui lui permet de discerner, dans les événements, la volonté divine !
+
+Elle conclut son discours en s'adressant directement à David : 
 
 > 31Tu ne dois donc pas chanceler en versant le sang à la légère, mon seigneur ne doit pas trébucher en voulant triompher par lui-même. Et quand le SEIGNEUR aura fait du bien à mon seigneur, tu te souviendras de ta servante. »
 
+- Abiagïl se permet d'expliquer à David les enjeux profonds de son attitude envers Nabal
+  
+  - "tu ne risqueras pas de chanceler ou de trébucher dans ton cœur pour avoir, sans raison, répandu du **sang**, et pour avoir voulu assurer **toi-même** ton **salut.**" (NBS)
+
+- ce qui vaut pour tout être humain vaut encore plus pour David, appelé à régner
+  
+  - ceci fait le lien entre les trois actes :  1Sa24-26
+
 > 32David dit à Avigaïl : « Béni soit le SEIGNEUR, le Dieu d'Israël, qui t'a envoyée en ce jour à ma rencontre ! 33Béni soit ton bon sens, bénie sois-tu toi-même, pour m'avoir aujourd'hui retenu d'en venir au meurtre et de triompher par ma propre main ! 34Mais vraiment, par la vie du SEIGNEUR, le Dieu d'Israël, qui m'a empêché de te faire du mal, si tu n'étais pas venue aussi vite à ma rencontre, il ne serait resté à Naval, d'ici l'aurore, rien de ce qui urine contre un mur ! » 35David prit de sa main ce qu'elle lui avait apporté. A elle-même il dit : 
 > « Remonte en paix chez toi. Vois : j'ai écouté ta voix et je t'ai fait grâce. »
-> 
+
+- David accepte pleinement le discours d'Abigaïl (et ses provisions)
+  
+  - il rappelle sa détermination violente, 
+  
+  - et reconnaît le rôle d'Abigaïl : "si tu n'étais pas venue aussi vite"...
+
+- dans le même mouvement, il donne lui aussi une interprétation théologique 
+  
+  - "par la vie du SEIGNEUR, le Dieu d'Israël, qui m'a empêché de te faire du mal"
+
+La violence a failli déferler... 
+
+Le pire a été évité grâce à l'intervention conjointe de DEUX acteurs, qui sont tous deux bénis
+
+- "Béni soit le SEIGNEUR" ... qui t'a envoyée
+
+- "Béni soit ton bon sens, bénie sois-tu toi-même"
+
+Dans le récit que nous avons lu, RIEN n'indiquait qu'Abigaïl était "envoyée" par le Seigneur.
+
+- David interprète ce qui vient de se passer
+  
+  - il redit les événements... 
+  
+  - en nommant l'action du Seigneur 
+  
+  - qu'il reconnaît au cœur des actions humaines
+
+l'action du Seigneur est relue :
+
+- dans la sagesse d'Abigaïl
+
+- dans la 'retenue' de David, qui a été "empêché de lui faire du mal"
+  
+  - c'est à dire au cœur de la liberté de David
+  
+  - alors qu'il était échauffé (comme Caïn ?)
+
 > 36Avigaïl revint chez Naval. Voici qu'il faisait dans sa maison un festin, un 
-> vrai festin de roi. Naval avait le cœur en joie. Il était complètement ivre. Elle ne l'informa de rien jusqu'à l'aurore. 37Le lendemain matin, quand Naval eut cuvé son vin, sa femme lui raconta ce qui s'était passé. Alors le cœur de Naval mourut dans sa poitrine, et il fut comme pétrifié. 38Et au bout d'une dizaine de jours, le SEIGNEUR frappa Naval, et il mourut.
-> 
+> vrai festin de **roi**. Naval avait le cœur en joie. Il était complètement ivre. Elle ne l'informa de rien jusqu'à l'aurore. 37Le lendemain matin, quand Naval eut cuvé son vin, sa femme lui raconta ce qui s'était passé. Alors le cœur de Naval mourut dans sa poitrine, et il fut comme pétrifié. 38Et au bout d'une dizaine de jours, le SEIGNEUR frappa Naval, et il mourut.
+
+Remarquons le double récit de la mort de Nabal
+
+- au plan humain
+  
+  - "le cœur de Naval mourut dans sa poitrine"
+
+- interprété théologiquement 
+  
+  - "le SEIGNEUR frappa Naval"
+
+La mort de Nabal valide la leçon d'Abigaïl :  ce n'est pas à David de triompher par lui-même. David mettra cette leçon en application dans l'acte III.
+
 > 39David apprit que Naval était mort et il dit : « Béni soit le SEIGNEUR qui a défendu ma cause, dans cet affront que m'avait fait Naval, et qui a retenu son serviteur de faire le mal. Quant à la malice de Naval, le SEIGNEUR l'a fait retomber sur sa tête. »
+
+Enfin, David va épouser Abigaïl, veuve de Nabal... selon ce qu'Abigaïl avait laissé entrevoir :
+
+"Et quand le SEIGNEUR aura fait du bien à mon seigneur, tu te souviendras de ta servante."
+
+## Progression entre les trois actes
+
+La question de la royauté n'est pas absente de l'acte II. 
+
+Dans l'acte I et dans l'acte III, des personnages donnent une interprétation théologique des faits
+
+**1SA 24,5** : dans la caverne où Saül est allé satisfaire un besoin naturel, ignorant la présence de David et ses hommes
+
+> 5Les hommes de David lui dirent : « C'est le jour dont le SEIGNEUR t'a dit : Voici que je vais livrer ton ennemi entre tes mains, et tu le traiteras comme il te plaira. »
+
+- le récit biblique ne mentionne PAS cette parole du Seigneur plus haut dans le texte... 
+
+- "tu le traiteras comme il te plaira"
+  
+  - souligne la liberté de David... 
+  
+  - pour tuer Saül ?
+  
+  - ou pas ?
+
+A la fin du chapitre, David valide *en partie* cette lecture théologique :
+
+**1Sa 24,11**
+
+> le SEIGNEUR t'avait livré entre mes mains, aujourd'hui dans la caverne ; on parlait de te tuer, mais j'ai eu pitié de toi et j'ai dit : “Je ne porterai pas
+>  la main sur mon seigneur, car il est le messie du SEIGNEUR.”
+
+- David confirme que le Seigneur avait livré Saül... 
+  
+  - mais il refuse l'interprétation sanguinaire de ce "fait"
+
+- ceci se reproduit en 1Sa 26,11
+
+### Le rôle de Samuel, la symbolique du manteau, et la nouveauté de l'acte III
+
+**1Sa 15,26-28** : après avoir été oint par Samuel, le roi Saül a péché, et il est rejeté
+
+> 26 Samuel dit à Saül : Je ne reviendrai pas avec toi. Puisque tu as rejeté la parole du Seigneur, le Seigneur te rejette : tu ne seras plus roi sur Israël.
 > 
-> David envoya demander Avigaïl en mariage. 40Les serviteurs de David se rendirent chez Avigaïl à Karmel et ils lui parlèrent en ces termes : « David nous a envoyés chez toi pour te prendre pour sa femme. » 41Elle se leva, se prosterna la face contre terre et dit : « Ta servante est une esclave prête à laver les pieds des serviteurs de mon seigneur. » 42Avigaïl se hâta de partir. Elle monta sur son âne et, accompagnée de cinq de ses servantes, elle suivit les envoyés de David. Ainsi, elle devint sa femme.
+> 27 Comme Samuel se tournait pour s’en aller, Saül le saisit par le pan de son manteau, qui se déchira.
 > 
-> 43David avait aussi épousé Ahinoam d'Izréel. Elles furent toutes les deux ses femmes. 44Saül avait donné sa fille Mikal, femme de David, à Palti, fils de Laïsh, qui était de Gallim.
+> 28 Samuel lui dit : Le Seigneur déchire aujourd’hui la royauté d’Israël pour te l’ôter, et il la donne à un autre, qui est meilleur que toi.
+
+- c'est le manteau de Samuel qui est déchiré... par Saül
+  
+  - mais Samuel en fait un symbole de la royauté sur Israël qui est déchirée et que Saül va perdre... 
+
+**Acte I : 1Sa 24,5b-6**
+
+> David se leva et coupa furtivement le pan du manteau de Saül. 6Mais après cela, David sentit son cœur battre, parce qu'il avait coupé le pan du manteau de Saül.
+
+- le pan de manteau coupé 
+  
+  - sera la preuve de l'innocence de David à la fin de l'acte I
+  
+  - car David a renoncé à verser le sang
+  
+  - mais... 
+
+- c'est une action symbolique, car c'est le manteau royal qui est découpé
+  
+  - David porte atteinte à un symbole de la royauté de Saül
+  
+  - veut-il "triompher par sa propre main" ?
+
+
+
+Au début de l'acte II, le texte relate la mort de Samuel.
+
+- Saül a compris que David serait roi
+  
+  - mais il craint pour sa descendance
+
+- Samuel ne pourra pas aider David à accéder au trône
+  
+  - la tentation de "triompher par sa propre main" se fait plus vive pour David.
+
+L'acte II révèle que c'est précisément ce que le Seigneur lui enseigne d'éviter !
+
+**Acte III : 1Sa 26,12**
+
+> 12David prit la lance et la gourde d'eau qui étaient au chevet de Saül, et ils s'en allèrent. Personne n'en vit rien, personne ne le sut, personne ne s'éveilla. Ils dormaient tous : une torpeur venue du SEIGNEUR était tombée sur eux.
+
+- au niveau simplement humain
+  
+  - David prend la lance : symbole royal  
+  
+  - et la gourde : symbole humain
+
+- au niveau divin
+  
+  - le récit souligne que le Seigneur assure le succès de l'opération
+  
+  - car personne ne se réveille !
+
+La portée symbolique de l'acte de David est beaucoup plus forte dans l'acte III
+
+* David s'est mis en position de vulnérabilité : il va dans le camp de Saül
+  
+  * dans l'acte I : Saül était vulnérable dans la grotte, au milieu des hommes de David
+
+* David va "désarmer" le roi : il prend la lance
+  
+  * dans l'acte I : il utilisait une arme pour couper le pan du manteau
+
+* en fin d'acte III, David restitue la lance
+  
+  * rien n'est dit sur la gourde
+
+* David ne s'empare de rien "par lui-même"
+  
+  * il rend au roi son arme : symbole de violence et de mort
+  
+  * il conserve la gourde : symbole de vie
+
+Dans les deux actes parallèles, il y a une progression.
+
+Dans l'acte III, le texte souligne que David bénéficie de l'assistance divine, pour mener son opération de non-violence :
+
+- dans les faits : 
+  
+  - ne pas verser le sang
+
+- et au niveau symbolique
+  
+  - ne pas triompher par sa propre main
+
+Dans l'acte III, David donne à Saül la leçon de non-violence qu'il a apprise dans l'acte II. 
+
+## Pour finir
+
+Comment la volonté de Dieu peut-elle se déployer sans faire violence à la liberté humaine ?
+
+Dans les récits bibliques, la liberté humaine peut servir la volonté divine.
+
+- Abigaïl agit avec toutes ses facultés humaines :
+  
+  - liberté
+  
+  - sagesse
+  
+  - détermination
+
+- par là même, Dieu déploie son dessein. 
+  
+  - et David dira que c'est le Seigneur qui l'a "envoyée"
+
+Le texte biblique utilise assez souvent, d'une manière qui semble limpide, des expressions comme 2Sa 11,1 :
+
+> Le Seigneur envoya Nathan à David.
+
+- cela ne signifie pas que Nathan soit une marionnette dans les mains de Dieu, ou que son agir soit "surnaturel"
+  
+  - il a toutes ses capacités humaines
+  
+  - y compris sa capacité d'initiative
+
+- mais David a pu reconnaître, à la relecture des événements, que l'action de Nathan accomplissait le dessein de Dieu.
+
+### A la lumière de 1Sa 24-26
+
+On peut essayer d'aborder une question difficile : 
+
+Comment le Seigneur s'y prend-il pour empêcher les guerres ?
+
+- va-t-il user de violence contre les violents ?
+  
+  - et, pourquoi pas, des interventions surnaturelles ?
+
+- va-t-il leur envoyer des Abigaïls ?
+  
+  - désarmées, mais déterminées et intelligentes (= intervention naturelle) ?
+
+
+
+Prière eucharistique pour la réconciliation n°2 :
+
+```
+Au sein de notre humanité encore désunie et déchirée,
+nous savons et nous proclamons
+que tu ne cesses d'agir
+et que tu es à l'origine de tout effort vers la paix.
+
+Ton Esprit travaille au cœur des hommes:
+et les ennemis enfin se parlent,
+les adversaires se tendent la main,
+des peuples qui s'opposaient
+acceptent de faire ensemble une partie du chemin.
+
+Oui, c'est à toi, Seigneur, que nous le devons,
+si le désir de s'entendre l'emporte sur la guerre,
+si la soif de vengeance fait place au pardon,
+et si l'amour triomphe de la haine.
+```
+
+
+
+Ps 32,13-15
+
+> Du haut des cieux, le Seigneur regarde : il voit la race des hommes.
+> 
+> Du lieu qu'il habite, il observe tous les habitants de la terre,
+> 
+> lui qui forme le cœur de chacun, qui pénètre toutes leurs actions.
