@@ -4,6 +4,26 @@ Benoît XVI, Le sacrement de l'amour, n°10
 
 > L'institution de l'Eucharistie montre en effet que cette mort, en soi violente et absurde, est devenue en Jésus un acte suprême d'amour et pour l'humanité une libération définitive du mal.
 
+### Bibliographie
+
+- J. ALISON, *12 leçons sur le christianisme*, Desclée de Brouwer
+  
+  - notamment le chapitre 5... mais mieux vaut lire tout le livre !
+
+- P. BEAUCHAMP, *Testament biblique*, Bayard
+  
+  - chap. 8 : "La violence dans la Bible" (Etudes, avril 1999, p.486-496)
+
+- D. MARGUERAT, *Jésus et Matthieu*, Labor et Fides
+  
+  - chap. 4 : "Jésus Dieu et la violence", p. 69-88
+
+- S. RAMOND, *Une leçon de non-violence pour David*, Cerf 
+
+- T. RÖMER, *Dieu obscur*, Labor et Fides
+  
+  - chap. 3 : "Dieu est-il despote et guerrier ?"
+
 ### Les marchands du temple
 
 **Jn 2,13-16**
@@ -16,7 +36,7 @@ Benoît XVI, Le sacrement de l'amour, n°10
   
   - forte portée symbolique
   
-  - la suite du passage révèle que le vrai temple, détruit et reconstruit, est le corps de Jésus
+  - la suite du passage révèle que le vrai temple, qui sera détruit et reconstruit, est le corps de Jésus
 
 Dans les évangiles synoptiques (Mt, Mc et Lc) on trouve aussi un récit où Jésus agit avec énergie dans le temple.
 
@@ -44,9 +64,9 @@ Jésus agit avec zèle... selon **Jn 2,17**
 
 > Ses disciples se souvinrent qu'il est écrit : Le zèle de ta maison me dévorera
 
-- mais il serait malhonnête de prétendre légitimer la violence humaine
-
-- au motif que Jésus lui-même aurait agi avec "violence"
+- mais il serait malhonnête de prétendre légitimer la violence humaine...
+  
+  - au motif que Jésus lui-même aurait agi avec "violence"
 
 - si notre "violence" suivait le "modèle de Jésus"
   
@@ -56,7 +76,7 @@ Jésus agit avec zèle... selon **Jn 2,17**
   
   - elle ne s'attaquerait jamais directement aux personnes
   
-  - elle ne serait toujours l'occasion d'une parole qui fasse réfléchir, et qui en dise le sens
+  - elle serait toujours l'occasion d'une parole qui fasse réfléchir, et qui en dise le sens
 
 - bref... le monde se porterait mieux ! 
 
@@ -90,7 +110,7 @@ Lorsqu'ils le font, ils mentionnent par exemple
 
 Aucun des récit des vendeurs chassés du temple ne mentionne l'état intérieur de Jésus : supposer que Jésus serait en colère... ne repose sur aucun appui dans le texte. 
 
-Une seule fois, la colère (ὀργή) est mentionnée : Mc 3,5
+Une seule fois, la colère (ὀργή) est mentionnée pour Jésus, en Mc 3,5.
 
 **Mc 3,1-6** 
 
@@ -186,7 +206,7 @@ La suite du passage est construite en symétrie
 
 > 28En sortant, ce serviteur rencontra un de ses compagnons, qui lui devait cent pièces d'argent ; il le prit à la gorge et le serrait à l'étrangler, en lui disant : “Rembourse ce que tu dois.” 29Son compagnon se jeta donc à ses pieds et il le suppliait en disant : “Prends patience envers moi, et je te rembourserai.” 
 
-- la dette est modeste
+- la dette est bien plus modeste
   
   - 100 pièces = environ 100 jours de travail
   
@@ -208,7 +228,7 @@ Le récit fait sens car les deux attitudes sont symétriques,
   
   - dans l'ampleur de la dette, 
   
-  - remise / réclamée avec violence
+  - qui est remise / réclamée avec violence
 
 La suite du récit "rétablit la symétrie"... en annulant la remise de dette.
 
@@ -345,7 +365,310 @@ Ceci nous permet de comprendre ce que Jésus ne cherche **pas** à faire dans le
 - Jésus montre qu'il ne suffit pas d'appliquer la Loi...
   
   - il faut la "dépasser par le haut"
+  - ce qui est extrêmement exigeant !
 
-=> comparaison avec stoïciens (Marguerat)
+D. MARGUERAT résume (p. 84)
 
-=> VOUS / TU : (Beauchamp)... 
+```
+En réalité, la loi du talion s'en trouve totalement subvertie :
+au lieu d'une régulation limitant le besoin de revanche, 
+il est proposé de répondre démesurément aux demandes de l'autre.
+```
+
+Il précise également une particularité de cet enseignement de Jésus.
+
+- le renoncement à la violence, que Jésus enseigne, n'est pas motivé, expliqué par un raisonnement ou un calcul
+
+- on trouve chez les stoïciens des exhortations à renoncer à la vengeance, à endurer la souffance (même injuste)
+  
+  - car au fond, l'humain n'y peut rien
+
+- on trouve dans certains enseignement rabbiniques des recommandations similaires
+  
+  - avec la précision que Dieu saura venger les juste
+  
+  - ou que les justes pourront convertir leurs ennemis par leur attitude positive
+
+On trouve ces deux idées en Rm 12
+
+> 19 Bien-aimés, ne vous faites pas justice vous-mêmes, mais laissez agir la colère de Dieu. Car l’Écriture dit : C’est à moi de faire justice, c’est moi qui rendrai à chacun ce qui lui revient, dit le Seigneur.
+> 
+> 20 Mais si ton ennemi a faim, donne-lui à manger ; s’il a soif, donne-lui à boire : en agissant ainsi, tu entasseras sur sa tête des charbons ardents.
+> 
+> 21 Ne te laisse pas vaincre par le mal, mais sois vainqueur du mal par le bien.
+
+L'enseignement de Jésus dans le discours sur la montagne est plus radical
+
+- le renoncement à la vengeance est sans justification !
+  
+  - aucun calcul,
+  
+  - pas d'argumentation... 
+
+Il s'agit de faire de la place à une tout autre manière de faire, de penser, de vivre !
+
+### Vous... je ... tu
+
+> **Vous** avez appris qu'il a été dit : Œil pour œil et dent pour dent. 39Et
+>  moi, **je** vous dis de ne pas résister au méchant. Au contraire, si 
+> quelqu'un **te** gifle sur la joue droite, tends-lui aussi l'autre.
+
+- l'autorité de Jésus s'exprime en JE
+
+- adressé d'abord à VOUS
+
+- puis en particulier à TU
+
+```
+le Sermon sur la montage nous signifie ce que nous devons vivre ensemble
+et tous ensemble, sous peine de périr ensemble.
+```
+
+P. BEAUCHAMP *Testament Biblique*, p. 180-181
+
+```
+L'homme, mais surtout la société, n'a de choix qu'entre deux directions, 
+deux mouvements de sens contraire. 
+Et il est dépassé par l'un et par l'autre, que ce soit l'amour, 
+ou la haine qui détruit.
+[...]
+L'amour se situe sur un autre plan que la loi, sans la supprimer.
+```
+
+D. MARGUERAT (p.85)
+
+```
+J'insite : la parole de Jésus ne comporte nullement de consigne rassurante,
+ou d'espoir secret de convertir le violent. 
+Elle pointe uniquement sur la nécessité provocatrice de rompre, 
+par le renoncement à riposter, la spirale de la violence.
+```
+
+## La passion de Jésus
+
+Il est remarquable que Dieu, en Jésus, décide de s'exposer à l'extrême de la violence des hommes. 
+
+L'enseignement de Jésus sur la nécessité de "rompre la spirale de la violence" ne se fait pas en paroles seulement, mais en actes.
+
+Plusieurs indices le montrent dans les récits de la passion.
+
+#### La prière de Jésus
+
+> « Mon Père, s’il est possible, que cette coupe passe loin de moi ! 
+> Cependant, non pas comme moi, je veux, mais comme toi, tu veux. » Mt 26,39b
+
+- aucun masochisme dans l'attitude de Jésus
+  
+  - Mc 14,33 précise qu'il "commence à ressentir frayeur et angoisse."
+  
+  - Jésus ne désire aucunement subir la violence qui l'attend
+  
+  - mais il choisit de ne pas se dérober
+
+- "comme toi, tu veux" exprime :
+  
+  - l'acquiescement de Jésus à la volonté du Père. 
+  - le dépassement de sa volonté propre
+  - la communion des volontés
+
+ATTENTION :  comme le précise J. ALISON (p.163)
+
+```
+il existes des théories qui commencent par poser l'image d'un Dieu en quête de vengeance
+et trouvent ensuite des façons d'intégrer la mort de Jésus dans l'assouvissement de cette vengeance.
+```
+
+Comme si le Père avait pu vouloir la mort violente de Jésus.
+
+Mais l'évangile ne présente rien de tel.
+
+- ce sont des hommes qui condamnent Jésus à mort
+  
+  - pour "blasphème" : motif théologique !
+  
+  - peut-être sont-ils de mauvaise foi...
+  
+  - d'autres sont persuadés "qu'il vaut mieux qu'un seul homme meure pour le peuple"
+  
+  > l’heure vient où tous ceux qui vous tueront s’imagineront qu’ils rendent un culte à Dieu. (Jn 16,2)
+  
+  - ceci peut nous rappeler la violence de "tout Israël" contre Akhan (חֵרֶם *Hérèm*)
+
+- à travers cela, la volonté divine aboutira malgré tout
+  
+  - en acceptant de devenir la victime de la violence des hommes : Jésus participe activement au projet de salut de Dieu
+  
+  - en Jésus, Dieu lui-même est frappé par la violence humaine. 
+  
+  - et il ne se dérobe pas !
+
+#### L'arrestation de Jésus
+
+> L’un de ceux qui étaient avec Jésus, portant la main à son épée, la 
+> tira, frappa le serviteur du grand prêtre, et lui trancha l’oreille.
+> 
+> Alors Jésus lui dit :  Rentre ton épée, car tous ceux qui prennent l’épée périront par l’épée.
+
+- Jésus refuse d'être défendu par l'épée
+  
+  - Luc raconte qu'il guérit l'oreille du serviteur
+
+- au moment où Jésus est victime de cette arrestation qui est injuste,
+  
+  - il refuse que la violence réponde à la violence
+  
+  - la leçon qu'il donne s'apparente à la sagesse biblique : le mal commis par le méchant retombera sur lui
+  
+  - cela s'applique à celui qui cherche à défendre Jésus... par la violence (selon Jn il s'agit de Pierre)
+
+#### La mort de Jésus
+
+Les évangélistes ne s'appesantissent pas sur ce point... le supplice de la croix est l'un des plus cruels que la violence humaine ait inventés. 
+
+C'est l'extrême de la souffrance et l'extrême de l'humiliation que Jésus subit. 
+
+Sur la croix, Jésus est exposé à l'extrême de la violence. 
+
+Et sur la croix, avec Jésus, l'extrême de la violence est "exposé". 
+
+**Mt 27**
+
+> 50 Mais Jésus, poussant de nouveau un grand cri, rendit l’esprit.
+> 
+> 51 Et voici que le rideau du Sanctuaire se déchira en deux, depuis le haut jusqu’en bas ; la terre trembla et les rochers se fendirent.
+> 
+> 52 Les tombeaux s’ouvrirent ; les corps de nombreux saints qui étaient morts ressuscitèrent,
+> 
+> 53 et, sortant des tombeaux après la résurrection de Jésus, ils entrèrent dans la Ville sainte, et se montrèrent à un grand nombre de gens.
+
+Dans le récit de la passion, on peut lire à la fois
+
+- le silence de Dieu : "pourquoi m'as-tu abandonné ?"
+  
+  - question qui reste sans réponse
+
+- et la manifestation de Dieu
+  
+  - après la mort de Jésus : 
+  
+  - "la terre trembla et les rochers se fendirent"
+
+- un Dieu... autre !
+  
+  - le rideau déchiré met fin à ce qui était le "mode de présence principal" de Dieu
+  
+  - ce n'est plus dans le temple que Dieu se manifeste
+  
+  - mais dans la mort de Jésus (et sa résurrection)
+  
+  - selon Jn, le sanctuaire "détruit et rebâti"... c'est le corps de Jésus
+
+Quelle réponse de Dieu à l'extrême de la violence qui vient de mettre à mort le Fils ?
+
+- vengeance ?
+  
+  - en foudroyant ses ennemis ?
+  
+  - la "loi du Talion" n'est pas appliquée
+
+- au contraire 
+  
+  - pas de violence en réponse à la violence
+  
+  - donner la **vie** aux saints qui étaient dans les tombeaux. 
+
+D. MARGUERAT (p.82)
+
+```
+Voici que la mort de Jésus abolit un système fondé sur la réparation violente de la faute.
+La mort du Fils n'exige rien en retour, sinon d'être reçue comme le don de l'amour gratuit. 
+```
+
+#### Le don de l'amour
+
+"Au moment d'entrer librement dans sa passion..."
+
+**Mt 26,27-28**
+
+>  Il prit ensuite une coupe ; après avoir rendu grâce, il la leur donna en disant : Buvez-en tous :
+> c’est mon sang, le sang de l’alliance, qui est répandu en faveur d’une multitude, pour le pardon des péchés.
+
+- le "sang de l'Alliance" a été répandu, sur l'autel et sur le peuple, par Moïse, au Sinaï
+
+- ici, c'est le sang de Jésus 
+  
+  - versé "en faveur d'une multitude" : sans restriction
+  
+  - pour le pardon des péchés
+
+Nous sommes trop habitués à cette expression (propre à Mt) pour remarquer son caractère révolutionnaire.
+
+- le sang de Jésus, bien que "versé", ne "crie pas du sol" pour réclamer vengeance ou réparation
+  
+  - contrairement au sang d'Abel
+
+- On lisait en Gn 9,6 
+  
+  > Celui qui répand le sang de l’être humain, par l’être humain son sang sera répandu. Car à l’image de Dieu l’homme a été fait.
+
+- le sang de Jésus fait exception
+  
+  - non seulement il n'appelle pas à répandre à nouveau le sang de ses bourreaux
+  
+  - mais il est versé en vue du pardon des péchés
+
+Par son enseignement, par ses actes, par sa vie et par sa mort, Jésus brise la spirale de la violence.  
+
+### Et après ?
+
+Nous n'aurions rien pu dire de tout ce que nous avons dit jusqu'ici si Jésus ne s'était fait voir : vivant !
+
+- ressuscité,
+  
+  - Jésus garde les marques de son exécution en croix
+  
+  - les traces de la violence extrême qu'il a endurée ne sont pas effacées
+
+- Jésus est vivant
+  
+  - d'une vie autre, pleine
+  
+  - qui reste marquée par la violence subie jusqu'à la mort
+  
+  - c'est comme victime que Jésus est vivant ! 
+
+> Alors je vis, au milieu du trône et des quatre êtres vivants et au milieu des anciens, un agneau debout, qui semblait immolé. **Ap 5,6**
+
+Dans le livre de l'apocalypse, l'agneau est debout :
+
+- victorieux
+
+- et immolé 
+  
+  - le chap. 13 parle même de "l’agneau immolé depuis la fondation du monde"
+
+Et c'est comme "victime pardonnante" que Jésus se manifeste. 
+
+> 15 Après qu’ils eurent déjeuné, Jésus dit à Simon Pierre : Simon, fils de Jean, m’aimes-tu plus que ceux-ci ? Il lui répondit : Oui, Seigneur ! Tu sais bien, toi, que je suis ton ami ! Jésus lui dit : Prends soin de mes agneaux.
+
+
+
+> 16 Il lui dit une deuxième fois : Simon, fils de Jean, m’aimes-tu ? Pierre lui répondit : Oui, Seigneur ! Tu sais bien, toi, que je suis ton ami ! Jésus lui dit : Sois le berger de mes moutons.
+> 
+> 17 Il lui dit pour la troisième fois : Simon, fils de Jean, es-tu mon ami ? Pierre fut attristé de ce qu’il lui avait dit pour la troisième fois : « Es-tu mon ami ? » Il lui répondit : Seigneur, toi, tu sais tout ! Tu sais bien, toi, que je suis ton ami ! Jésus lui dit : Prends soin de mes moutons.
+
+### Et nous ?
+
+La violence nous menace
+
+- qu'on soit pacifique : Abel
+
+- ou violent : Caïn
+
+La violence nous tente
+
+- David
+
+La violence peut nous détruire
+
+- ou nous faire détruire : Akan
